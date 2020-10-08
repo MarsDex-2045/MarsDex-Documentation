@@ -1,4 +1,4 @@
-#Planning MarsDex
+# Planning MarsDex
 ## Tegen 8/10/20 23:59
 - **Deliverables defineren** (Groepsgesprek)
 - **Organisatie & middelen defineren** (Yarne)
