@@ -199,7 +199,7 @@
 			<rect x="0" y="1001.63" width="70.8661" height="53.8583" class="st1"/>
 			<text x="15.54" y="1011.76" class="st2" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>The account <tspan
 						x="2.36" dy="1.2em" class="st3">creation is cancelled </tspan><tspan x="4.73" dy="1.2em" class="st3">&#38; the user is asked </tspan><tspan
-						x="9.01" dy="1.2em" class="st3">to re</tspan>-enter their <tspan x="25.6" dy="1.2em" class="st3">detals</tspan></text>		</g>
+						x="9.01" dy="1.2em" class="st3">to re</tspan>-enter their <tspan x="24.69" dy="1.2em" class="st3">details</tspan></text>		</g>
 		<g id="shape11-39" v:mID="11" v:groupContext="shape" v:layerMember="0" transform="translate(2040.48,-801.537)">
 			<title>Dynamische verbindingslijn.11</title>
 			<desc>No</desc>
@@ -385,7 +385,7 @@
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="134.646" cy="1100.84" width="40" height="17.6036"/>
 			<path d="M0 1055.49 L0 1100.84 L307.61 1100.84" class="st5"/>
-			<rect v:rectContext="textBkgnd" x="129.142" y="1096.04" width="11.0078" height="9.59985" class="st7"/>
+			<rect v:rectContext="textBkgnd" x="129.142" y="1096.04" width="11.0078" height="9.59985" class="st9"/>
 			<text x="129.14" y="1103.24" class="st8" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>Yes</text>		</g>
 		<g id="shape25-113" v:mID="25" v:groupContext="shape" v:layerMember="0" transform="translate(2671.19,-771.774)">
 			<title>Dynamische verbindingslijn.25</title>
@@ -953,7 +953,7 @@
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="-56.6929" cy="1112.74" width="64.85" height="17.6036"/>
 			<path d="M0 1055.49 L-56.69 1055.49 L-56.69 1163.25" class="st5"/>
-			<rect v:rectContext="textBkgnd" x="-84.208" y="1107.94" width="55.0305" height="9.59985" class="st9"/>
+			<rect v:rectContext="textBkgnd" x="-84.208" y="1107.94" width="55.0305" height="9.59985" class="st7"/>
 			<text x="-84.21" y="1115.14" class="st8" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>Check shipments</text>		</g>
 		<g id="shape58-295" v:mID="58" v:groupContext="shape" v:layerMember="0" transform="translate(2383.47,-644.215)">
 			<title>Dynamische verbindingslijn.58</title>
@@ -1148,7 +1148,7 @@
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="1.41732" cy="1044.15" width="40" height="17.6036"/>
 			<path d="M0 1055.49 L0 1034.23 L-86.5 1034.23" class="st5"/>
-			<rect v:rectContext="textBkgnd" x="-6.58451" y="1039.35" width="16.0038" height="9.59985" class="st7"/>
+			<rect v:rectContext="textBkgnd" x="-6.58451" y="1039.35" width="16.0038" height="9.59985" class="st9"/>
 			<text x="-6.58" y="1046.55" class="st8" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>Loop</text>		</g>
 		<g id="shape69-355" v:mID="69" v:groupContext="shape" v:layerMember="0" transform="translate(2319.69,-644.215)">
 			<title>Dynamische verbindingslijn.69</title>
@@ -1156,7 +1156,7 @@
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="-1516.54" cy="1090.35" width="65.13" height="17.6036"/>
 			<path d="M0 1055.49 L-1510.87 1055.49 L-1510.87 1152.62" class="st5"/>
-			<rect v:rectContext="textBkgnd" x="-1544.19" y="1085.55" width="55.3082" height="9.59985" class="st7"/>
+			<rect v:rectContext="textBkgnd" x="-1544.19" y="1085.55" width="55.3082" height="9.59985" class="st9"/>
 			<text x="-1544.19" y="1092.75" class="st8" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>Contact Marsdex</text>		</g>
 		<g id="shape71-362" v:mID="71" v:groupContext="shape" v:layerMember="1" transform="translate(949.138,-0.75)">
 			<title>Begin/einde.71</title>
@@ -1590,7 +1590,7 @@
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="28.3465" cy="1076.39" width="40" height="17.6036"/>
 			<path d="M0 1055.49 L28.35 1055.49 L28.35 1118.61" class="st5"/>
-			<rect v:rectContext="textBkgnd" x="23.6551" y="1071.59" width="9.38287" height="9.59985" class="st7"/>
+			<rect v:rectContext="textBkgnd" x="23.6551" y="1071.59" width="9.38287" height="9.59985" class="st9"/>
 			<text x="23.66" y="1078.79" class="st8" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>No</text>		</g>
 		<g id="shape94-490" v:mID="94" v:groupContext="shape" v:layerMember="1" transform="translate(1175.91,-0.75)">
 			<title>Begin/einde.94</title>
@@ -1630,7 +1630,7 @@
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="-19.8425" cy="1109.17" width="40" height="17.6036"/>
 			<path d="M0 1055.49 L-19.84 1055.49 L-19.84 1124.28" class="st5"/>
-			<rect v:rectContext="textBkgnd" x="-25.3463" y="1104.37" width="11.0078" height="9.59985" class="st9"/>
+			<rect v:rectContext="textBkgnd" x="-25.3463" y="1104.37" width="11.0078" height="9.59985" class="st7"/>
 			<text x="-25.35" y="1111.57" class="st8" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>Yes</text>		</g>
 		<g id="shape96-501" v:mID="96" v:groupContext="shape" v:layerMember="0" transform="translate(1276.54,-336.656)">
 			<title>Dynamische verbindingslijn.96</title>
@@ -1745,7 +1745,7 @@
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="11.3386" cy="1061.58" width="73.35" height="17.6036"/>
 			<path d="M7.09 1055.49 L7.09 1095.93" class="st5"/>
-			<rect v:rectContext="textBkgnd" x="-20.4285" y="1056.78" width="63.5345" height="9.59985" class="st9"/>
+			<rect v:rectContext="textBkgnd" x="-20.4285" y="1056.78" width="63.5345" height="9.59985" class="st7"/>
 			<text x="-20.43" y="1063.98" class="st8" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>Filter/Search Query</text>		</g>
 		<g id="shape102-533" v:mID="102" v:groupContext="shape" v:layerMember="1" transform="translate(1749.93,-70.1988)">
 			<title>Beslissing.102</title>
@@ -2303,7 +2303,7 @@
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="1062.99" cy="1094.54" width="50.81" height="27.2035"/>
 			<path d="M0 1055.49 L1062.99 1055.49 L1062.99 1160.42" class="st5"/>
-			<rect v:rectContext="textBkgnd" x="1042.5" y="1084.94" width="40.9916" height="19.1997" class="st7"/>
+			<rect v:rectContext="textBkgnd" x="1042.5" y="1084.94" width="40.9916" height="19.1997" class="st9"/>
 			<text x="1054.01" y="1092.14" class="st8" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>Go to<v:newlineChar/><tspan
 						x="1042.5" dy="1.2em" class="st3">Marketplace</tspan></text>		</g>
 		<g id="shape132-697" v:mID="132" v:groupContext="shape" v:layerMember="1" transform="translate(3418.11,-404.687)">
@@ -2531,7 +2531,7 @@
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="23.563" cy="1062.57" width="40" height="17.6036"/>
 			<path d="M0 1062.57 L40.09 1062.57" class="st5"/>
-			<rect v:rectContext="textBkgnd" x="18.0592" y="1057.78" width="11.0078" height="9.59985" class="st9"/>
+			<rect v:rectContext="textBkgnd" x="18.0592" y="1057.78" width="11.0078" height="9.59985" class="st7"/>
 			<text x="18.06" y="1064.97" class="st8" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>Yes</text>		</g>
 		<g id="shape145-758" v:mID="145" v:groupContext="shape" v:layerMember="0" transform="translate(3040.22,-159.399)">
 			<title>Dynamische verbindingslijn.145</title>
@@ -3103,7 +3103,7 @@
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="226.772" cy="1055.49" width="130.7" height="17.6036"/>
 			<path d="M0 1055.49 L403.94 1055.49 L403.94 1098.05" class="st5"/>
-			<rect v:rectContext="textBkgnd" x="166.329" y="1050.69" width="120.885" height="9.59985" class="st9"/>
+			<rect v:rectContext="textBkgnd" x="166.329" y="1050.69" width="120.885" height="9.59985" class="st7"/>
 			<text x="166.33" y="1057.89" class="st8" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>Check orders that need to be fulfilled</text>		</g>
 		<g id="shape176-917" v:mID="176" v:groupContext="shape" v:layerMember="1" transform="translate(3838.35,-203.994)">
 			<title>Beslissing.176</title>
@@ -3179,7 +3179,7 @@
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="38.7135" cy="1048.4" width="40" height="17.6036"/>
 			<path d="M0 1048.4 L70.39 1048.4" class="st5"/>
-			<rect v:rectContext="textBkgnd" x="33.2097" y="1043.6" width="11.0078" height="9.59985" class="st7"/>
+			<rect v:rectContext="textBkgnd" x="33.2097" y="1043.6" width="11.0078" height="9.59985" class="st9"/>
 			<text x="33.21" y="1050.8" class="st8" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>Yes</text>		</g>
 		<g id="shape180-939" v:mID="180" v:groupContext="shape" v:layerMember="1" transform="translate(3857.48,-114.136)">
 			<title>Begin/einde.180</title>
@@ -3219,7 +3219,7 @@
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="7.08661" cy="1086.24" width="40" height="17.6036"/>
 			<path d="M7.09 1055.49 L7.09 1109.96" class="st5"/>
-			<rect v:rectContext="textBkgnd" x="2.39524" y="1081.44" width="9.38287" height="9.59985" class="st7"/>
+			<rect v:rectContext="textBkgnd" x="2.39524" y="1081.44" width="9.38287" height="9.59985" class="st9"/>
 			<text x="2.4" y="1088.64" class="st8" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>No</text>		</g>
 		<g id="shape182-950" v:mID="182" v:groupContext="shape" v:layerMember="1" transform="translate(4004.45,-114.136)">
 			<title>Begin/einde.182</title>
@@ -3261,7 +3261,7 @@
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="7.08661" cy="1085.39" width="40" height="17.6036"/>
 			<path d="M7.09 1055.49 L7.09 1108.26" class="st5"/>
-			<rect v:rectContext="textBkgnd" x="2.39524" y="1080.59" width="9.38287" height="9.59985" class="st7"/>
+			<rect v:rectContext="textBkgnd" x="2.39524" y="1080.59" width="9.38287" height="9.59985" class="st9"/>
 			<text x="2.4" y="1087.79" class="st8" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>No</text>		</g>
 		<g id="shape184-962" v:mID="184" v:groupContext="shape" v:layerMember="1" transform="translate(4170.1,-230.64)">
 			<title>Begin/einde.184</title>
