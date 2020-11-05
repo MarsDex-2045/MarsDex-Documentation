@@ -10,8 +10,8 @@ Starting from the beginning of the flow,
 - Register as a new company
 - Logout as a company
 - Login as a company
-- Find out how many resources you have
-- Find out how many resources there are in a company
+- Find out how many resources you have in your company.
+- Find out how many resources there are in a colony
 - Find the Send time of your most recent shipment
 - Find all of your shipments
 - Find out more details about your last notification
