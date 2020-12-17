@@ -1,7 +1,15 @@
-Date modified: 01/12/2020 17:10
-
 # MarsDex
-MarsDex is a web app that registers and trades resources on Mars. By resources we mean everything that grows on Mars or is in Mars. Our system can be perfectly used by any company to store, trade and purchase all their resources. The purpose of our platform is to map all sources on Mars. Our platform is made for Martians and for companies that produce, mine or need resources on Mars. Our platform does not only knows who has which goods, but also where they are.
+Welcome to the MarsDex Project. This README.md is a starting point through the MarsDex project and will guide you through the project.
+## Index
+* [Server](https://git.ti.howest.be/TI/2020-2021/s3/project-ii/projects/groep-23/server)
+* [Client](https://git.ti.howest.be/TI/2020-2021/s3/project-ii/projects/groep-23/client)
+* [Documentation](https://git.ti.howest.be/TI/2020-2021/s3/project-ii/projects/groep-23/documentation)
+## Introduction
+MarsDex is a monitoring & index service to keep track of resources on Mars. 
+
+Because of the harsh environmental factors on Mars, resource usage needs to be optimized, and the exchange of these needs to be easy.
+MarsDex gives Mars Residents, company and government workers the tools to manage, exchange and keep track of resources on Mars.
+With our extensive map of Mars & Transports routes, detailed lists of resources and easy-to-use marketplace, you can manage your resources with ease and enjoy the Martian view.
 
 ## Documentation
 In the documentation you will find all our deliverables, (https://git.ti.howest.be/TI/2020-2021/s3/project-ii/projects/groep-23/documentation/-/tree/master/deliverables ) these are:
