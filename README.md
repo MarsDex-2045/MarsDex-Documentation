@@ -11,7 +11,36 @@ Because of the harsh environmental factors on Mars, resource usage needs to be o
 MarsDex gives Mars Residents, company and government workers the tools to manage, exchange and keep track of resources on Mars.
 With our extensive map of Mars & Transports routes, detailed lists of resources and easy-to-use marketplace, you can manage your resources with ease and enjoy the Martian view.
 
-## Documentation
+## (Proof Of) Concept
+Below you'll find a table, detailing which parts are implemented in the POC and which are conceptual
+### General
+|Feature|Included in wireframes?|Included in POC?|
+|---|---|---|
+|Global Map|✅|✅|
+|Colony Listing|✅|✅|
+|Colony Details|✅|✅|
+|Contact From|✅|✅|
+|About us|✅|✅|
+### Mars Resident exclusive
+|Feature|Included in wireframes?|Included in POC?|
+|---|---|---|
+|N/A|N/A|N/A|
+### Company exclusive
+|Feature|Included in wireframes?|Included in POC?|
+|---|---|---|
+|Company Overview|✅|✅|
+|Shipment Listing|✅|✅|
+|Resource Listing|✅|✅|
+|Home Colony Resource Listing|✅|✅|
+|My Resource Listing|✅|✅|
+|Adding resource|✅|✅|
+|Editing resource|✅|✅|
+|Deleting resource|✅|✅|
+### Government exclusive
+|Feature|Included in wireframes?|Included in POC?|
+|---|---|---|
+|Feature|✅|❌|
+## Documention
 In the documentation you will find all our deliverables, (https://git.ti.howest.be/TI/2020-2021/s3/project-ii/projects/groep-23/documentation/-/tree/master/deliverables ) these are:
 - Flow charts
 - Use case diagram
