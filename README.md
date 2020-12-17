@@ -12,7 +12,7 @@ MarsDex gives Mars Residents, company and government workers the tools to manage
 With our extensive map of Mars & Transports routes, detailed lists of resources and easy-to-use marketplace, you can manage your resources with ease and enjoy the Martian view.
 
 ## (Proof Of) Concept
-Below you'll find a table, detailing which parts are implemented in the POC and which are conceptual
+Below you'll find a table, detailing which parts are implemented in the POC and which are conceptual.
 ### General
 |Feature|Included in wireframes?|Included in POC?|
 |---|---|---|
@@ -50,21 +50,21 @@ Below you'll find a table, detailing which parts are implemented in the POC and 
 |Viewing Alerts|✅|❌|
 |Sending Alerts|✅|❌|
 |Modifying colony policies|✅|❌|
-## Documention
-In the documentation you will find all our deliverables, (https://git.ti.howest.be/TI/2020-2021/s3/project-ii/projects/groep-23/documentation/-/tree/master/deliverables ) these are:
-- Flow charts
-- Use case diagram
-- Component diagram
-- Wireframes
-- User tests
+## Documentation
+The Documentation repository contains all our deliverables of the project, such as:
+- [Flowcharts](https://git.ti.howest.be/TI/2020-2021/s3/project-ii/projects/groep-23/documentation/-/tree/master/deliverables/Flowcharts)
+- [User Case Diagrams](https://git.ti.howest.be/TI/2020-2021/s3/project-ii/projects/groep-23/documentation/-/tree/master/deliverables/UCD)
+- [User Tests](https://git.ti.howest.be/TI/2020-2021/s3/project-ii/projects/groep-23/documentation/-/blob/master/deliverables/User%20Testing/User%20tests.md)
+- [UX Reports](https://git.ti.howest.be/TI/2020-2021/s3/project-ii/projects/groep-23/documentation/-/tree/master/deliverables/User%20Testing)
+- [C4 Diagrams](https://git.ti.howest.be/TI/2020-2021/s3/project-ii/projects/groep-23/documentation/-/tree/master/deliverables/c4)
+- [Wireframes](https://xd.adobe.com/view/68533c7b-e53d-4526-bacd-679ff922f22b-3d00/)
+- [Business Case](https://drive.google.com/file/d/1zgsmvooYGLrN7WjTB11YLKyTbSqQwJNx/view)
+- [User Stories](https://git.ti.howest.be/TI/2020-2021/s3/project-ii/projects/groep-23/documentation/-/wikis/Proof-Of-Concept/User-Stories)
 
-You can also find our planning here (https://git.ti.howest.be/TI/2020-2021/s3/project-ii/projects/groep-23/documentation/-/tree/master/timeframing ).
-
+***Note:** We have chosen to save most of the deliverables in SVG format. This was because Git liked this more and there was less quality loss. But GitLab's preview will render our SVG wrong. Because of this, you'll need to open the SVG image in raw 
+(You'll find this button in the right-hand side of the preview window, the button besides download.)*  
 ### Project
 Our project is divided into front-end (client) and back-end (server).
 For more information please refer to these pages:
 - Client: https://git.ti.howest.be/TI/2020-2021/s3/project-ii/projects/groep-23/client
 - Server: https://git.ti.howest.be/TI/2020-2021/s3/project-ii/projects/groep-23/server
-
-### Financial aspect
-Our temporary business case can be found at https://git.ti.howest.be/TI/2020-2021/s3/project-ii/projects/groep-23/documentation/-/wikis/Proof-Of-Concept / Business case- (concept)
