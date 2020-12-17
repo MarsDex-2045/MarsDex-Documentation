@@ -36,10 +36,20 @@ Below you'll find a table, detailing which parts are implemented in the POC and 
 |Adding resource|✅|✅|
 |Editing resource|✅|✅|
 |Deleting resource|✅|✅|
+|Request Resource|✅|❌|
+|Placing Bid on Resource request|✅|❌|
+|Choosing order deliverer|✅|❌|
+|Viewing bids on Resource Request|✅|❌|
+|Viewing Resource Request to complete|✅|❌|
+|Marking order as in transit|✅|❌|
 ### Government exclusive
 |Feature|Included in wireframes?|Included in POC?|
 |---|---|---|
 |Feature|✅|❌|
+|Viewing Transports|✅|❌|
+|Viewing Alerts|✅|❌|
+|Sending Alerts|✅|❌|
+|Modifying colony policies|✅|❌|
 ## Documention
 In the documentation you will find all our deliverables, (https://git.ti.howest.be/TI/2020-2021/s3/project-ii/projects/groep-23/documentation/-/tree/master/deliverables ) these are:
 - Flow charts
