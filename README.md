@@ -45,7 +45,6 @@ Below you'll find a table, detailing which parts are implemented in the POC and 
 ### Government exclusive
 |Feature|Included in wireframes?|Included in POC?|
 |---|---|---|
-|Feature|✅|❌|
 |Viewing Transports|✅|❌|
 |Viewing Alerts|✅|❌|
 |Sending Alerts|✅|❌|
@@ -63,8 +62,6 @@ The Documentation repository contains all our deliverables of the project, such 
 
 ***Note:** We have chosen to save most of the deliverables in SVG format. This was because Git liked this more and there was less quality loss. But GitLab's preview will render our SVG wrong. Because of this, you'll need to open the SVG image in raw 
 (You'll find this button in the right-hand side of the preview window, the button besides download.)*  
-### Project
-Our project is divided into front-end (client) and back-end (server).
-For more information please refer to these pages:
-- Client: https://git.ti.howest.be/TI/2020-2021/s3/project-ii/projects/groep-23/client
-- Server: https://git.ti.howest.be/TI/2020-2021/s3/project-ii/projects/groep-23/server
+
+## What now?
+In order to set up the application, you'll need to set up the server & the client locally. You'll need to [configure the server](https://git.ti.howest.be/TI/2020-2021/s3/project-ii/projects/groep-23/server) and after that, you'll need [configure the client](https://git.ti.howest.be/TI/2020-2021/s3/project-ii/projects/groep-23/client).
