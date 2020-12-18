@@ -11,6 +11,7 @@ Because of the harsh environmental factors on Mars, resource usage needs to be o
 MarsDex gives Mars Residents, company and government workers the tools to manage, exchange and keep track of resources on Mars.
 With our extensive map of Mars & Transports routes, detailed lists of resources and easy-to-use marketplace, you can manage your resources with ease and enjoy the Martian view.
 
+![MarsDex Overview](markdown/MarsDex%20Overview.gif)
 ## (Proof Of) Concept
 Below you'll find a table, detailing which parts are implemented in the POC and which are conceptual.
 ### General
@@ -59,6 +60,10 @@ The Documentation repository contains all our deliverables of the project, such 
 - [Wireframes](https://xd.adobe.com/view/68533c7b-e53d-4526-bacd-679ff922f22b-3d00/)
 - [Business Case](https://drive.google.com/file/d/1zgsmvooYGLrN7WjTB11YLKyTbSqQwJNx/view)
 - [User Stories](https://git.ti.howest.be/TI/2020-2021/s3/project-ii/projects/groep-23/documentation/-/wikis/Proof-Of-Concept/User-Stories)
+
+All of these items are located in the `deliveries` directory.
+
+*The `markdown` directory is used to load resources to this README.md*
 
 ***Note:** We have chosen to save most of the deliverables in SVG format. This was because Git liked this more and there was less quality loss. But GitLab's preview will render our SVG wrong. Because of this, you'll need to open the SVG image in raw 
 (You'll find this button in the right-hand side of the preview window, the button besides download.)*  
