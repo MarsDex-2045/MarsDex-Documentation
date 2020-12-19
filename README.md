@@ -14,6 +14,7 @@ With our extensive map of Mars & Transports routes, detailed lists of resources 
 ![MarsDex Overview](markdown/MarsDex%20Overview.gif)
 ## (Proof Of) Concept
 Below you'll find a table, detailing which parts are implemented in the POC and which are conceptual.
+
 ### General
 |Feature|Included in wireframes?|Included in POC?|
 |---|---|---|
@@ -22,10 +23,12 @@ Below you'll find a table, detailing which parts are implemented in the POC and 
 |Colony Details|✅|✅|
 |Contact From|✅|✅|
 |About us|✅|✅|
+
 ### Mars Resident exclusive
 |Feature|Included in wireframes?|Included in POC?|
 |---|---|---|
 |N/A|N/A|N/A|
+
 ### Company exclusive
 |Feature|Included in wireframes?|Included in POC?|
 |---|---|---|
@@ -43,6 +46,7 @@ Below you'll find a table, detailing which parts are implemented in the POC and 
 |Viewing bids on Resource Request|✅|❌|
 |Viewing Resource Request to complete|✅|❌|
 |Marking order as in transit|✅|❌|
+
 ### Government exclusive
 |Feature|Included in wireframes?|Included in POC?|
 |---|---|---|
@@ -50,6 +54,14 @@ Below you'll find a table, detailing which parts are implemented in the POC and 
 |Viewing Alerts|✅|❌|
 |Sending Alerts|✅|❌|
 |Modifying colony policies|✅|❌|
+
+### Bonus features
+In addition to these features, the following bonus features were also implemented in the POC:
+- Geolocation ("You are here" marker on the global map)
+- CSS animations (Found throughout the project)
+- Service Worker ([`sw.js`](https://git.ti.howest.be/TI/2020-2021/s3/project-ii/projects/groep-23/client/-/blob/master/src/sw.js), you'll also find that it's registered in your dev tools)
+- Push Notifications (This triggers if a resource is lower than 500 KG, a push notification will send to the server)
+
 ## Documentation
 The Documentation repository contains all our deliverables of the project, such as:
 - [Flowcharts](https://git.ti.howest.be/TI/2020-2021/s3/project-ii/projects/groep-23/documentation/-/tree/master/deliverables/Flowcharts)
@@ -58,8 +70,9 @@ The Documentation repository contains all our deliverables of the project, such 
 - [UX Reports](https://git.ti.howest.be/TI/2020-2021/s3/project-ii/projects/groep-23/documentation/-/tree/master/deliverables/User%20Testing)
 - [C4 Diagrams](https://git.ti.howest.be/TI/2020-2021/s3/project-ii/projects/groep-23/documentation/-/tree/master/deliverables/c4)
 - [Wireframes](https://xd.adobe.com/view/68533c7b-e53d-4526-bacd-679ff922f22b-3d00/)
-- [Business Case](https://drive.google.com/file/d/1zgsmvooYGLrN7WjTB11YLKyTbSqQwJNx/view)
 - [User Stories](https://git.ti.howest.be/TI/2020-2021/s3/project-ii/projects/groep-23/documentation/-/wikis/Proof-Of-Concept/User-Stories)
+- [Business Case](https://drive.google.com/file/d/1zgsmvooYGLrN7WjTB11YLKyTbSqQwJNx/view)
+    - [Excel calculations](https://drive.google.com/file/d/13XSKiMAM_caN3_jCyK2qS-52hl6i-gZb/view?usp=sharing)
 
 All of these items are located in the `deliveries` directory.
 
