@@ -86,10 +86,11 @@ In order to improve clarity, we've decided to summirize our [application require
 ## What now?
 In order to set up the application, you'll need to set up the server & the client locally. You'll need to [configure the server](https://git.ti.howest.be/TI/2020-2021/s3/project-ii/projects/groep-23/server) and after that, you'll need [configure the client](https://git.ti.howest.be/TI/2020-2021/s3/project-ii/projects/groep-23/client).
 
+Or you can visit the [website](https://project-ii.ti.howest.be/mars-23/).
+
 ## Credits
 This project has been made by the following people:
 - Yarne Savaete *(Discord-ID: `Derp.#8570`)*
 - [Benjamin Robbe](https://www.facebook.com/profile.php?id=100012320041578)
 - Rutger Heyvaert
 - [Bo Robbrecht](https://www.linkedin.com/in/borobbrecht/)
-
