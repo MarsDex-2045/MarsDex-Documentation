@@ -70,7 +70,7 @@ The Documentation repository contains all our deliverables of the project, such 
 - [UX Reports](https://git.ti.howest.be/TI/2020-2021/s3/project-ii/projects/groep-23/documentation/-/tree/master/deliverables/User%20Testing)
 - [C4 Diagrams](https://git.ti.howest.be/TI/2020-2021/s3/project-ii/projects/groep-23/documentation/-/tree/master/deliverables/c4)
 - [Wireframes](https://xd.adobe.com/view/68533c7b-e53d-4526-bacd-679ff922f22b-3d00/)
-- [User Stories](https://git.ti.howest.be/TI/2020-2021/s3/project-ii/projects/groep-23/documentation/-/wikis/Proof-Of-Concept/User-Stories)
+- [User Stories](https://git.ti.howest.be/TI/2020-2021/s3/project-ii/projects/groep-23/documentation/-/wikis/Concept/User-Stories)
 - [Business Case](https://drive.google.com/file/d/1zgsmvooYGLrN7WjTB11YLKyTbSqQwJNx/view)
     - [Excel calculations](https://drive.google.com/file/d/13XSKiMAM_caN3_jCyK2qS-52hl6i-gZb/view?usp=sharing)
 
@@ -81,6 +81,8 @@ All of these items are located in the `deliveries` directory.
 ***Note:** We have chosen to save most of the deliverables in SVG format. This was because Git liked this more and there was less quality loss. But GitLab's preview will render our SVG wrong. Because of this, you'll need to open the SVG image in raw 
 (You'll find this button in the right-hand side of the preview window, the button besides download.)*  
 
+### Application requirements
+In order to improve clarity, we've decided to summirize our [application requirements](https://git.ti.howest.be/TI/2020-2021/s3/project-ii/projects/groep-23/documentation/-/wikis/Concept/Application-Requirements)
 ## What now?
 In order to set up the application, you'll need to set up the server & the client locally. You'll need to [configure the server](https://git.ti.howest.be/TI/2020-2021/s3/project-ii/projects/groep-23/server) and after that, you'll need [configure the client](https://git.ti.howest.be/TI/2020-2021/s3/project-ii/projects/groep-23/client).
 
