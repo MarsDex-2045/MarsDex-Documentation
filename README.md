@@ -113,8 +113,6 @@ The Documentation repository contains all our deliverables of the project, such 
 - [Wireframes](https://xd.adobe.com/view/68533c7b-e53d-4526-bacd-679ff922f22b-3d00/)
 - [User Stories](https://git.ti.howest.be/TI/2020-2021/s3/project-ii/projects/groep-23/documentation/-/wikis/Concept/User-Stories)
 - [Business Case](https://drive.google.com/file/d/1zgsmvooYGLrN7WjTB11YLKyTbSqQwJNx/view)
-    - [Excel calculations](https://drive.google.com/file/d/13XSKiMAM_caN3_jCyK2qS-52hl6i-gZb/view?usp=sharing)
-
 All of these items are located in the `deliveries` directory.
 
 *The `markdown` directory is used to load resources to this README.md*
