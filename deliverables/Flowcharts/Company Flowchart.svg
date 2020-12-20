@@ -2,8 +2,8 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <!-- Gegenereerd door Microsoft Visio, SVG Export Company Flowchart.svg Pagina-1 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
-		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="61.7559in" height="14.6596in"
-		viewBox="0 0 4446.42 1055.49" xml:space="preserve" color-interpolation-filters="sRGB" class="st10">
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="65.7126in" height="14.6596in"
+		viewBox="0 0 4731.31 1055.49" xml:space="preserve" color-interpolation-filters="sRGB" class="st10">
 	<v:documentProperties v:langID="1043" v:metric="true" v:viewMarkup="false"/>
 
 	<style type="text/css">
@@ -385,7 +385,7 @@
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="134.646" cy="1100.84" width="40" height="17.6036"/>
 			<path d="M0 1055.49 L0 1100.84 L307.61 1100.84" class="st5"/>
-			<rect v:rectContext="textBkgnd" x="129.142" y="1096.04" width="11.0078" height="9.59985" class="st9"/>
+			<rect v:rectContext="textBkgnd" x="129.142" y="1096.04" width="11.0078" height="9.59985" class="st7"/>
 			<text x="129.14" y="1103.24" class="st8" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>Yes</text>		</g>
 		<g id="shape25-113" v:mID="25" v:groupContext="shape" v:layerMember="0" transform="translate(2671.19,-771.774)">
 			<title>Dynamische verbindingslijn.25</title>
@@ -393,7 +393,7 @@
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="-121.89" cy="1092.34" width="40" height="17.6036"/>
 			<path d="M0 1055.49 L0 1092.34 L-273.59 1092.34" class="st5"/>
-			<rect v:rectContext="textBkgnd" x="-127.394" y="1087.54" width="11.0078" height="9.59985" class="st9"/>
+			<rect v:rectContext="textBkgnd" x="-127.394" y="1087.54" width="11.0078" height="9.59985" class="st7"/>
 			<text x="-127.39" y="1094.74" class="st8" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>Yes</text>		</g>
 		<g id="shape26-120" v:mID="26" v:groupContext="shape" v:layerMember="1" transform="translate(2319.69,-622.955)">
 			<title>Beslissing.26</title>
@@ -893,7 +893,7 @@
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="18.4252" cy="1017.22" width="40" height="27.2035"/>
 			<path d="M-2.83 1055.49 L18.43 1055.49 L18.43 987.46 L-4.3 987.46" class="st5"/>
-			<rect v:rectContext="textBkgnd" x="5.53445" y="1007.62" width="25.7813" height="19.1997" class="st7"/>
+			<rect v:rectContext="textBkgnd" x="5.53445" y="1007.62" width="25.7813" height="19.1997" class="st9"/>
 			<text x="13.73" y="1014.82" class="st8" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>No<v:lf/><tspan
 						x="5.53" dy="1.2em" class="st3">=&#62; Loop</tspan></text>		</g>
 		<g id="shape52-264" v:mID="52" v:groupContext="shape" v:layerMember="0" transform="translate(207.878,-373.73)">
@@ -916,7 +916,7 @@
 			<path d="M0 1055.49 L-21.26 1055.49 L-21.26 1482.1 L202.72 1482.1" class="st5"/>
 			<rect v:rectContext="textBkgnd" x="-71.1611" y="1251.34" width="100.37" height="9.59985" class="st7"/>
 			<text x="-71.16" y="1258.54" class="st8" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>Clicks on colony in the list view</text>		</g>
-		<g id="shape55-283" v:mID="55" v:groupContext="shape" v:layerMember="1" transform="translate(2227.56,-486.892)">
+		<g id="shape55-283" v:mID="55" v:groupContext="shape" v:layerMember="1" transform="translate(2691.03,-486.892)">
 			<title>Proces.55</title>
 			<desc>Company User recieves a overview of all resources</desc>
 			<v:custProps>
@@ -947,14 +947,14 @@
 			<rect x="0" y="1012.97" width="70.8661" height="42.5197" class="st1"/>
 			<text x="11.65" y="1027.03" class="st2" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>Company User <tspan
 						x="3.49" dy="1.2em" class="st3">recieves a overview </tspan><tspan x="10.74" dy="1.2em" class="st3">of all resources</tspan></text>		</g>
-		<g id="shape56-288" v:mID="56" v:groupContext="shape" v:layerMember="0" transform="translate(2319.69,-644.215)">
+		<g id="shape56-288" v:mID="56" v:groupContext="shape" v:layerMember="0" transform="translate(2390.56,-644.215)">
 			<title>Dynamische verbindingslijn.56</title>
 			<desc>Check shipments</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="-56.6929" cy="1112.74" width="64.85" height="17.6036"/>
-			<path d="M0 1055.49 L-56.69 1055.49 L-56.69 1163.25" class="st5"/>
-			<rect v:rectContext="textBkgnd" x="-84.208" y="1107.94" width="55.0305" height="9.59985" class="st7"/>
-			<text x="-84.21" y="1115.14" class="st8" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>Check shipments</text>		</g>
+			<v:textRect cx="333.071" cy="1109.35" width="64.85" height="17.6036"/>
+			<path d="M0 1055.49 L335.91 1055.49 L335.91 1163.25" class="st5"/>
+			<rect v:rectContext="textBkgnd" x="305.556" y="1104.55" width="55.0305" height="9.59985" class="st7"/>
+			<text x="305.56" y="1111.75" class="st8" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>Check shipments</text>		</g>
 		<g id="shape58-295" v:mID="58" v:groupContext="shape" v:layerMember="0" transform="translate(2383.47,-644.215)">
 			<title>Dynamische verbindingslijn.58</title>
 			<desc>Company User presses “overview” tab or the company’s name</desc>
@@ -1148,7 +1148,7 @@
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="1.41732" cy="1044.15" width="40" height="17.6036"/>
 			<path d="M0 1055.49 L0 1034.23 L-86.5 1034.23" class="st5"/>
-			<rect v:rectContext="textBkgnd" x="-6.58451" y="1039.35" width="16.0038" height="9.59985" class="st9"/>
+			<rect v:rectContext="textBkgnd" x="-6.58451" y="1039.35" width="16.0038" height="9.59985" class="st7"/>
 			<text x="-6.58" y="1046.55" class="st8" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>Loop</text>		</g>
 		<g id="shape69-355" v:mID="69" v:groupContext="shape" v:layerMember="0" transform="translate(2319.69,-644.215)">
 			<title>Dynamische verbindingslijn.69</title>
@@ -1156,7 +1156,7 @@
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="-1516.54" cy="1090.35" width="65.13" height="17.6036"/>
 			<path d="M0 1055.49 L-1510.87 1055.49 L-1510.87 1152.62" class="st5"/>
-			<rect v:rectContext="textBkgnd" x="-1544.19" y="1085.55" width="55.3082" height="9.59985" class="st9"/>
+			<rect v:rectContext="textBkgnd" x="-1544.19" y="1085.55" width="55.3082" height="9.59985" class="st7"/>
 			<text x="-1544.19" y="1092.75" class="st8" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>Contact Marsdex</text>		</g>
 		<g id="shape71-362" v:mID="71" v:groupContext="shape" v:layerMember="1" transform="translate(949.138,-0.75)">
 			<title>Begin/einde.71</title>
@@ -1209,7 +1209,7 @@
 			<rect v:rectContext="textBkgnd" x="-50.1885" y="1000.53" width="72.0308" height="19.1997" class="st7"/>
 			<text x="-37.5" y="1007.73" class="st8" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>Company user<v:lf/><tspan
 						x="-50.19" dy="1.2em" class="st3">presses the app</tspan>’s logo</text>		</g>
-		<g id="shape74-383" v:mID="74" v:groupContext="shape" v:layerMember="1" transform="translate(2564.18,-0.75)">
+		<g id="shape74-383" v:mID="74" v:groupContext="shape" v:layerMember="1" transform="translate(3001.24,-0.750018)">
 			<title>Begin/einde.74</title>
 			<desc>User sees a pop-up box with relevent info about the transaction</desc>
 			<v:custProps>
@@ -1246,12 +1246,12 @@
 			<title>Dynamische verbindingslijn.75</title>
 			<desc>Company User clicks on Shipping item</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="223.228" cy="1502.55" width="88.44" height="27.2035"/>
-			<path d="M0 1055.49 L219.69 1055.49 L219.69 1657.9" class="st5"/>
-			<rect v:rectContext="textBkgnd" x="184.82" y="1492.96" width="76.8159" height="19.1997" class="st7"/>
-			<text x="184.82" y="1500.15" class="st8" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>Company User clicks on <v:lf/><tspan
-						x="200.92" dy="1.2em" class="st3">Shipping item</tspan></text>		</g>
-		<g id="shape77-396" v:mID="77" v:groupContext="shape" v:layerMember="1" transform="translate(1511.82,-503.9)">
+			<v:textRect cx="660.295" cy="1416.96" width="88.44" height="27.2035"/>
+			<path d="M0 1055.49 L656.75 1055.49 L656.75 1657.9" class="st5"/>
+			<rect v:rectContext="textBkgnd" x="621.887" y="1407.36" width="76.8159" height="19.1997" class="st7"/>
+			<text x="621.89" y="1414.56" class="st8" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>Company User clicks on <v:lf/><tspan
+						x="637.99" dy="1.2em" class="st3">Shipping item</tspan></text>		</g>
+		<g id="shape77-396" v:mID="77" v:groupContext="shape" v:layerMember="1" transform="translate(1987.56,-503.9)">
 			<title>Proces.77</title>
 			<desc>A dropdown list appears underneath “Resources” Tab</desc>
 			<v:custProps>
@@ -1286,11 +1286,11 @@
 			<title>Dynamische verbindingslijn.78</title>
 			<desc>Check resources</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="-771.024" cy="1104.17" width="62.7" height="17.6036"/>
-			<path d="M0 1055.49 L-772.44 1055.49 L-772.44 1146.24" class="st5"/>
-			<rect v:rectContext="textBkgnd" x="-797.463" y="1099.37" width="52.8786" height="9.59985" class="st7"/>
-			<text x="-797.46" y="1106.57" class="st8" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>Check resources</text>		</g>
-		<g id="shape79-408" v:mID="79" v:groupContext="shape" v:layerMember="1" transform="translate(1497.64,-403.978)">
+			<v:textRect cx="-295.276" cy="1131.02" width="62.7" height="17.6036"/>
+			<path d="M0 1055.49 L-296.69 1055.49 L-296.69 1146.24" class="st5"/>
+			<rect v:rectContext="textBkgnd" x="-321.715" y="1126.22" width="52.8786" height="9.59985" class="st7"/>
+			<text x="-321.71" y="1133.42" class="st8" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>Check resources</text>		</g>
+		<g id="shape79-408" v:mID="79" v:groupContext="shape" v:layerMember="1" transform="translate(1973.39,-403.978)">
 			<title>Beslissing.79</title>
 			<desc>Which Tab does the company user choose?</desc>
 			<v:custProps>
@@ -1321,11 +1321,11 @@
 			<path d="M0 1026.79 L49.61 998.09 L99.21 1026.79 L49.61 1055.49 L0 1026.79 Z" class="st4"/>
 			<text x="17.36" y="1024.39" class="st2" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>Which Tab does the <tspan
 						x="12.4" dy="1.2em" class="st3">company user choose?</tspan></text>		</g>
-		<g id="shape80-412" v:mID="80" v:groupContext="shape" v:layerMember="0" transform="translate(1540.16,-503.9)">
+		<g id="shape80-412" v:mID="80" v:groupContext="shape" v:layerMember="0" transform="translate(2015.91,-503.9)">
 			<title>Dynamische verbindingslijn.80</title>
 			<path d="M7.09 1055.49 L7.09 1090.97" class="st5"/>
 		</g>
-		<g id="shape81-417" v:mID="81" v:groupContext="shape" v:layerMember="1" transform="translate(1758.43,-336.656)">
+		<g id="shape81-417" v:mID="81" v:groupContext="shape" v:layerMember="1" transform="translate(2234.18,-336.656)">
 			<title>Proces.81</title>
 			<desc>Company User recieves a overview of all resources</desc>
 			<v:custProps>
@@ -1356,7 +1356,7 @@
 			<rect x="0" y="1012.97" width="70.8661" height="42.5197" class="st1"/>
 			<text x="11.65" y="1027.03" class="st2" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>Company User <tspan
 						x="3.49" dy="1.2em" class="st3">recieves a overview </tspan><tspan x="10.74" dy="1.2em" class="st3">of all resources</tspan></text>		</g>
-		<g id="shape82-422" v:mID="82" v:groupContext="shape" v:layerMember="1" transform="translate(1237.56,-336.656)">
+		<g id="shape82-422" v:mID="82" v:groupContext="shape" v:layerMember="1" transform="translate(1713.31,-336.656)">
 			<title>Proces.82</title>
 			<desc>Company user recieves a overview of his own resources</desc>
 			<v:custProps>
@@ -1387,7 +1387,7 @@
 			<rect x="0" y="1012.97" width="92.126" height="42.5197" class="st1"/>
 			<text x="5.67" y="1027.03" class="st2" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>Company user recieves a <tspan
 						x="13.49" dy="1.2em" class="st3">overview of his own </tspan><tspan x="30.26" dy="1.2em" class="st3">resources</tspan></text>		</g>
-		<g id="shape83-427" v:mID="83" v:groupContext="shape" v:layerMember="0" transform="translate(1596.85,-432.679)">
+		<g id="shape83-427" v:mID="83" v:groupContext="shape" v:layerMember="0" transform="translate(2072.6,-432.679)">
 			<title>Dynamische verbindingslijn.83</title>
 			<desc>All Resources</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
@@ -1395,15 +1395,15 @@
 			<path d="M0 1055.49 L197.01 1055.49 L197.01 1101.95" class="st5"/>
 			<rect v:rectContext="textBkgnd" x="166.055" y="1050.69" width="43.265" height="9.59985" class="st7"/>
 			<text x="166.06" y="1057.89" class="st8" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>All Resources</text>		</g>
-		<g id="shape84-434" v:mID="84" v:groupContext="shape" v:layerMember="0" transform="translate(1497.64,-432.679)">
+		<g id="shape84-434" v:mID="84" v:groupContext="shape" v:layerMember="0" transform="translate(1973.39,-432.679)">
 			<title>Dynamische verbindingslijn.84</title>
 			<desc>My resources</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="-193.466" cy="1056.48" width="53.69" height="17.6036"/>
 			<path d="M0 1055.49 L-214.02 1055.49 L-214.02 1101.95" class="st5"/>
-			<rect v:rectContext="textBkgnd" x="-215.401" y="1051.68" width="43.8709" height="9.59985" class="st9"/>
+			<rect v:rectContext="textBkgnd" x="-215.401" y="1051.68" width="43.8709" height="9.59985" class="st7"/>
 			<text x="-215.4" y="1058.88" class="st8" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>My resources</text>		</g>
-		<g id="shape85-441" v:mID="85" v:groupContext="shape" v:layerMember="1" transform="translate(1248.19,-251.616)">
+		<g id="shape85-441" v:mID="85" v:groupContext="shape" v:layerMember="1" transform="translate(1723.94,-251.616)">
 			<title>Beslissing.85</title>
 			<desc>User action</desc>
 			<v:custProps>
@@ -1433,7 +1433,7 @@
 			<v:textRect cx="35.4331" cy="1034.23" width="59.06" height="31.8898"/>
 			<path d="M0 1034.23 L35.43 1012.97 L70.87 1034.23 L35.43 1055.49 L0 1034.23 Z" class="st4"/>
 			<text x="16.94" y="1036.63" class="st2" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>User action</text>		</g>
-		<g id="shape86-444" v:mID="86" v:groupContext="shape" v:layerMember="1" transform="translate(1431.03,-0.75)">
+		<g id="shape86-444" v:mID="86" v:groupContext="shape" v:layerMember="1" transform="translate(1906.78,-0.750018)">
 			<title>Begin/einde.86</title>
 			<desc>User cycles to the next/pervious page of results (if available)</desc>
 			<v:custProps>
@@ -1466,7 +1466,7 @@
 						 0 17.01 1055.49 Z" class="st4"/>
 			<text x="5.55" y="1031.28" class="st2" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>User cycles to the next/<tspan
 						x="5.14" dy="1.2em" class="st3">pervious page of results </tspan><tspan x="24.07" dy="1.2em" class="st3">(if available)</tspan></text>		</g>
-		<g id="shape87-449" v:mID="87" v:groupContext="shape" v:layerMember="0" transform="translate(1319.06,-272.876)">
+		<g id="shape87-449" v:mID="87" v:groupContext="shape" v:layerMember="0" transform="translate(1794.81,-272.876)">
 			<title>Dynamische verbindingslijn.87</title>
 			<desc>Next Page / Previous Page</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
@@ -1475,7 +1475,7 @@
 			<rect v:rectContext="textBkgnd" x="133.195" y="1086.99" width="45.4216" height="19.1997" class="st7"/>
 			<text x="137.05" y="1094.19" class="st8" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>Next Page / <v:newlineChar/><tspan
 						x="133.19" dy="1.2em" class="st3">Previous Page</tspan></text>		</g>
-		<g id="shape88-457" v:mID="88" v:groupContext="shape" v:layerMember="1" transform="translate(1248.19,-160.907)">
+		<g id="shape88-457" v:mID="88" v:groupContext="shape" v:layerMember="1" transform="translate(1723.94,-160.908)">
 			<title>Proces.88</title>
 			<desc>User enters a filter keyword</desc>
 			<v:custProps>
@@ -1506,7 +1506,7 @@
 			<rect x="0" y="1012.97" width="70.8661" height="42.5197" class="st1"/>
 			<text x="5.13" y="1031.83" class="st2" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>User enters a filter <tspan
 						x="21.35" dy="1.2em" class="st3">keyword</tspan></text>		</g>
-		<g id="shape89-461" v:mID="89" v:groupContext="shape" v:layerMember="0" transform="translate(1276.54,-251.616)">
+		<g id="shape89-461" v:mID="89" v:groupContext="shape" v:layerMember="0" transform="translate(1752.29,-251.616)">
 			<title>Dynamische verbindingslijn.89</title>
 			<desc>Filter/Search Query</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
@@ -1514,7 +1514,7 @@
 			<path d="M7.09 1055.49 L7.09 1096.64" class="st5"/>
 			<rect v:rectContext="textBkgnd" x="-20.4285" y="1056.87" width="63.5345" height="9.59985" class="st7"/>
 			<text x="-20.43" y="1064.07" class="st8" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>Filter/Search Query</text>		</g>
-		<g id="shape90-468" v:mID="90" v:groupContext="shape" v:layerMember="1" transform="translate(1239.69,-73.0335)">
+		<g id="shape90-468" v:mID="90" v:groupContext="shape" v:layerMember="1" transform="translate(1715.44,-73.0335)">
 			<title>Beslissing.90</title>
 			<desc>Are there any resources that match the filiter keyword?</desc>
 			<v:custProps>
@@ -1546,7 +1546,7 @@
 			<path d="M0 1023.6 L43.94 991.71 L87.87 1023.6 L43.94 1055.49 L0 1023.6 Z" class="st4"/>
 			<text x="21.78" y="1016.4" class="st2" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>Are there any <tspan
 						x="9.39" dy="1.2em" class="st3">resources that match </tspan><tspan x="12.06" dy="1.2em" class="st3">the filiter keyword?</tspan></text>		</g>
-		<g id="shape91-473" v:mID="91" v:groupContext="shape" v:layerMember="1" transform="translate(1306.3,-0.75)">
+		<g id="shape91-473" v:mID="91" v:groupContext="shape" v:layerMember="1" transform="translate(1782.05,-0.750018)">
 			<title>Begin/einde.91</title>
 			<desc>The user is made aware that there isn’t any resource that mat...</desc>
 			<v:custProps>
@@ -1580,19 +1580,19 @@
 			<text x="3.53" y="1031.28" class="st2" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>The user is made aware that <tspan
 						x="3.49" dy="1.2em" class="st3">there isn</tspan>’t any resource that <tspan x="14.48" dy="1.2em"
 						class="st3">matches the keyword</tspan></text>		</g>
-		<g id="shape92-478" v:mID="92" v:groupContext="shape" v:layerMember="0" transform="translate(1276.54,-160.907)">
+		<g id="shape92-478" v:mID="92" v:groupContext="shape" v:layerMember="0" transform="translate(1752.29,-160.908)">
 			<title>Dynamische verbindingslijn.92</title>
 			<path d="M7.09 1055.49 L7.09 1072.54" class="st5"/>
 		</g>
-		<g id="shape93-483" v:mID="93" v:groupContext="shape" v:layerMember="0" transform="translate(1327.56,-104.923)">
+		<g id="shape93-483" v:mID="93" v:groupContext="shape" v:layerMember="0" transform="translate(1803.31,-104.923)">
 			<title>Dynamische verbindingslijn.93</title>
 			<desc>No</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="28.3465" cy="1076.39" width="40" height="17.6036"/>
 			<path d="M0 1055.49 L28.35 1055.49 L28.35 1118.61" class="st5"/>
-			<rect v:rectContext="textBkgnd" x="23.6551" y="1071.59" width="9.38287" height="9.59985" class="st9"/>
+			<rect v:rectContext="textBkgnd" x="23.6551" y="1071.59" width="9.38287" height="9.59985" class="st7"/>
 			<text x="23.66" y="1078.79" class="st8" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>No</text>		</g>
-		<g id="shape94-490" v:mID="94" v:groupContext="shape" v:layerMember="1" transform="translate(1175.91,-0.75)">
+		<g id="shape94-490" v:mID="94" v:groupContext="shape" v:layerMember="1" transform="translate(1651.66,-0.750018)">
 			<title>Begin/einde.94</title>
 			<desc>Resources matching the keyword are displayed</desc>
 			<v:custProps>
@@ -1620,11 +1620,11 @@
 			</v:userDefs>
 			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
 			<v:textRect cx="43.937" cy="1041.31" width="87.88" height="28.3465"/>
-			<path d="M14.17 1055.49 L73.7 1055.49 A14.1732 14.1732 -180 0 0 73.7 1027.14 L14.17 1027.14 A14.1732 14.1732 -180 1 0
+			<path d="M14.17 1055.49 L73.7 1055.49 A14.1732 14.1732 -180 1 0 73.7 1027.14 L14.17 1027.14 A14.1732 14.1732 -180 1 0
 						 14.17 1055.49 Z" class="st4"/>
 			<text x="4.97" y="1038.91" class="st2" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>Resources matching the <tspan
 						x="7.32" dy="1.2em" class="st3">keyword are displayed</tspan></text>		</g>
-		<g id="shape95-494" v:mID="95" v:groupContext="shape" v:layerMember="0" transform="translate(1239.69,-104.923)">
+		<g id="shape95-494" v:mID="95" v:groupContext="shape" v:layerMember="0" transform="translate(1715.44,-104.923)">
 			<title>Dynamische verbindingslijn.95</title>
 			<desc>Yes</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
@@ -1632,11 +1632,11 @@
 			<path d="M0 1055.49 L-19.84 1055.49 L-19.84 1124.28" class="st5"/>
 			<rect v:rectContext="textBkgnd" x="-25.3463" y="1104.37" width="11.0078" height="9.59985" class="st7"/>
 			<text x="-25.35" y="1111.57" class="st8" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>Yes</text>		</g>
-		<g id="shape96-501" v:mID="96" v:groupContext="shape" v:layerMember="0" transform="translate(1276.54,-336.656)">
+		<g id="shape96-501" v:mID="96" v:groupContext="shape" v:layerMember="0" transform="translate(1752.29,-336.656)">
 			<title>Dynamische verbindingslijn.96</title>
 			<path d="M7.09 1055.49 L7.09 1090.97" class="st5"/>
 		</g>
-		<g id="shape97-506" v:mID="97" v:groupContext="shape" v:layerMember="1" transform="translate(1758.43,-248.073)">
+		<g id="shape97-506" v:mID="97" v:groupContext="shape" v:layerMember="1" transform="translate(2234.18,-248.073)">
 			<title>Beslissing.97</title>
 			<desc>User action</desc>
 			<v:custProps>
@@ -1666,7 +1666,7 @@
 			<v:textRect cx="35.4331" cy="1034.23" width="59.06" height="31.8898"/>
 			<path d="M0 1034.23 L35.43 1012.97 L70.87 1034.23 L35.43 1055.49 L0 1034.23 Z" class="st4"/>
 			<text x="16.94" y="1036.63" class="st2" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>User action</text>		</g>
-		<g id="shape98-509" v:mID="98" v:groupContext="shape" v:layerMember="1" transform="translate(1937.01,-0.75)">
+		<g id="shape98-509" v:mID="98" v:groupContext="shape" v:layerMember="1" transform="translate(2412.76,-0.750018)">
 			<title>Begin/einde.98</title>
 			<desc>User cycles to the next/pervious page of results (if available)</desc>
 			<v:custProps>
@@ -1699,7 +1699,7 @@
 						 0 17.01 1055.49 Z" class="st4"/>
 			<text x="5.55" y="1031.28" class="st2" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>User cycles to the next/<tspan
 						x="5.14" dy="1.2em" class="st3">pervious page of results </tspan><tspan x="24.07" dy="1.2em" class="st3">(if available)</tspan></text>		</g>
-		<g id="shape99-514" v:mID="99" v:groupContext="shape" v:layerMember="0" transform="translate(1829.3,-269.333)">
+		<g id="shape99-514" v:mID="99" v:groupContext="shape" v:layerMember="0" transform="translate(2305.04,-269.333)">
 			<title>Dynamische verbindingslijn.99</title>
 			<desc>Next Page / Previous Page</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
@@ -1708,7 +1708,7 @@
 			<rect v:rectContext="textBkgnd" x="128.943" y="1087.35" width="45.4216" height="19.1997" class="st7"/>
 			<text x="132.8" y="1094.55" class="st8" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>Next Page / <v:newlineChar/><tspan
 						x="128.94" dy="1.2em" class="st3">Previous Page</tspan></text>		</g>
-		<g id="shape100-522" v:mID="100" v:groupContext="shape" v:layerMember="1" transform="translate(1758.43,-158.073)">
+		<g id="shape100-522" v:mID="100" v:groupContext="shape" v:layerMember="1" transform="translate(2234.18,-158.073)">
 			<title>Proces.100</title>
 			<desc>User enters a filter keyword</desc>
 			<v:custProps>
@@ -1739,7 +1739,7 @@
 			<rect x="0" y="1012.97" width="70.8661" height="42.5197" class="st1"/>
 			<text x="5.13" y="1031.83" class="st2" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>User enters a filter <tspan
 						x="21.35" dy="1.2em" class="st3">keyword</tspan></text>		</g>
-		<g id="shape101-526" v:mID="101" v:groupContext="shape" v:layerMember="0" transform="translate(1786.78,-248.073)">
+		<g id="shape101-526" v:mID="101" v:groupContext="shape" v:layerMember="0" transform="translate(2262.52,-248.073)">
 			<title>Dynamische verbindingslijn.101</title>
 			<desc>Filter/Search Query</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
@@ -1747,7 +1747,7 @@
 			<path d="M7.09 1055.49 L7.09 1095.93" class="st5"/>
 			<rect v:rectContext="textBkgnd" x="-20.4285" y="1056.78" width="63.5345" height="9.59985" class="st7"/>
 			<text x="-20.43" y="1063.98" class="st8" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>Filter/Search Query</text>		</g>
-		<g id="shape102-533" v:mID="102" v:groupContext="shape" v:layerMember="1" transform="translate(1749.93,-70.1988)">
+		<g id="shape102-533" v:mID="102" v:groupContext="shape" v:layerMember="1" transform="translate(2225.67,-70.1988)">
 			<title>Beslissing.102</title>
 			<desc>Are there any resources that match the filiter keyword?</desc>
 			<v:custProps>
@@ -1779,7 +1779,7 @@
 			<path d="M0 1023.6 L43.94 991.71 L87.87 1023.6 L43.94 1055.49 L0 1023.6 Z" class="st4"/>
 			<text x="21.78" y="1016.4" class="st2" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>Are there any <tspan
 						x="9.39" dy="1.2em" class="st3">resources that match </tspan><tspan x="12.06" dy="1.2em" class="st3">the filiter keyword?</tspan></text>		</g>
-		<g id="shape103-538" v:mID="103" v:groupContext="shape" v:layerMember="1" transform="translate(1816.54,-0.75)">
+		<g id="shape103-538" v:mID="103" v:groupContext="shape" v:layerMember="1" transform="translate(2292.29,-0.750018)">
 			<title>Begin/einde.103</title>
 			<desc>The user is made aware that there isn’t any resource that mat...</desc>
 			<v:custProps>
@@ -1813,11 +1813,11 @@
 			<text x="3.53" y="1031.28" class="st2" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>The user is made aware that <tspan
 						x="3.49" dy="1.2em" class="st3">there isn</tspan>’t any resource that <tspan x="14.48" dy="1.2em"
 						class="st3">matches the keyword</tspan></text>		</g>
-		<g id="shape104-543" v:mID="104" v:groupContext="shape" v:layerMember="0" transform="translate(1786.78,-158.073)">
+		<g id="shape104-543" v:mID="104" v:groupContext="shape" v:layerMember="0" transform="translate(2262.52,-158.073)">
 			<title>Dynamische verbindingslijn.104</title>
 			<path d="M7.09 1055.49 L7.09 1072.54" class="st5"/>
 		</g>
-		<g id="shape105-548" v:mID="105" v:groupContext="shape" v:layerMember="0" transform="translate(1837.8,-102.089)">
+		<g id="shape105-548" v:mID="105" v:groupContext="shape" v:layerMember="0" transform="translate(2313.55,-102.089)">
 			<title>Dynamische verbindingslijn.105</title>
 			<desc>No</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
@@ -1825,7 +1825,7 @@
 			<path d="M0 1055.49 L28.35 1055.49 L28.35 1115.77" class="st5"/>
 			<rect v:rectContext="textBkgnd" x="23.6551" y="1070.18" width="9.38287" height="9.59985" class="st7"/>
 			<text x="23.66" y="1077.38" class="st8" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>No</text>		</g>
-		<g id="shape106-555" v:mID="106" v:groupContext="shape" v:layerMember="1" transform="translate(1686.15,-0.75)">
+		<g id="shape106-555" v:mID="106" v:groupContext="shape" v:layerMember="1" transform="translate(2161.89,-0.750018)">
 			<title>Begin/einde.106</title>
 			<desc>Resources matching the keyword are displayed</desc>
 			<v:custProps>
@@ -1853,23 +1853,23 @@
 			</v:userDefs>
 			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
 			<v:textRect cx="43.937" cy="1041.31" width="87.88" height="28.3465"/>
-			<path d="M14.17 1055.49 L73.7 1055.49 A14.1732 14.1732 -180 0 0 73.7 1027.14 L14.17 1027.14 A14.1732 14.1732 -180 1 0
+			<path d="M14.17 1055.49 L73.7 1055.49 A14.1732 14.1732 -180 1 0 73.7 1027.14 L14.17 1027.14 A14.1732 14.1732 -180 1 0
 						 14.17 1055.49 Z" class="st4"/>
 			<text x="4.97" y="1038.91" class="st2" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>Resources matching the <tspan
 						x="7.32" dy="1.2em" class="st3">keyword are displayed</tspan></text>		</g>
-		<g id="shape107-559" v:mID="107" v:groupContext="shape" v:layerMember="0" transform="translate(1749.93,-102.089)">
+		<g id="shape107-559" v:mID="107" v:groupContext="shape" v:layerMember="0" transform="translate(2225.67,-102.089)">
 			<title>Dynamische verbindingslijn.107</title>
 			<desc>Yes</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="-19.8425" cy="1106.99" width="40" height="17.6036"/>
 			<path d="M0 1055.49 L-19.84 1055.49 L-19.84 1121.44" class="st5"/>
-			<rect v:rectContext="textBkgnd" x="-25.3463" y="1102.19" width="11.0078" height="9.59985" class="st7"/>
+			<rect v:rectContext="textBkgnd" x="-25.3463" y="1102.19" width="11.0078" height="9.59985" class="st9"/>
 			<text x="-25.35" y="1109.39" class="st8" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>Yes</text>		</g>
-		<g id="shape108-566" v:mID="108" v:groupContext="shape" v:layerMember="0" transform="translate(1786.78,-336.656)">
+		<g id="shape108-566" v:mID="108" v:groupContext="shape" v:layerMember="0" transform="translate(2262.52,-336.656)">
 			<title>Dynamische verbindingslijn.108</title>
 			<path d="M7.09 1055.49 L7.09 1094.51" class="st5"/>
 		</g>
-		<g id="shape110-571" v:mID="110" v:groupContext="shape" v:layerMember="1" transform="translate(1062.52,-0.75)">
+		<g id="shape110-571" v:mID="110" v:groupContext="shape" v:layerMember="1" transform="translate(1538.27,-0.750018)">
 			<title>Begin/einde.110</title>
 			<desc>More detailed information is given about the resource</desc>
 			<v:custProps>
@@ -1902,15 +1902,15 @@
 						 0 17.01 1055.49 Z" class="st4"/>
 			<text x="12.34" y="1031.28" class="st2" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>More detailed <tspan
 						x="3.12" dy="1.2em" class="st3">information is given </tspan><tspan x="4.39" dy="1.2em" class="st3">about the resource</tspan></text>		</g>
-		<g id="shape111-576" v:mID="111" v:groupContext="shape" v:layerMember="0" transform="translate(1248.19,-272.876)">
+		<g id="shape111-576" v:mID="111" v:groupContext="shape" v:layerMember="0" transform="translate(1723.94,-272.876)">
 			<title>Dynamische verbindingslijn.111</title>
 			<desc>Clicks on resource</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="-150.236" cy="1099.43" width="68.41" height="17.6036"/>
 			<path d="M0 1055.49 L-150.24 1055.49 L-150.24 1286.56" class="st5"/>
-			<rect v:rectContext="textBkgnd" x="-179.535" y="1094.63" width="58.5972" height="9.59985" class="st7"/>
+			<rect v:rectContext="textBkgnd" x="-179.535" y="1094.63" width="58.5972" height="9.59985" class="st9"/>
 			<text x="-179.53" y="1101.83" class="st8" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>Clicks on resource</text>		</g>
-		<g id="shape112-583" v:mID="112" v:groupContext="shape" v:layerMember="1" transform="translate(1572.76,-0.75)">
+		<g id="shape112-583" v:mID="112" v:groupContext="shape" v:layerMember="1" transform="translate(2048.51,-0.750018)">
 			<title>Begin/einde.112</title>
 			<desc>More detailed information is given about the resource</desc>
 			<v:custProps>
@@ -1943,15 +1943,15 @@
 						 0 17.01 1055.49 Z" class="st4"/>
 			<text x="12.34" y="1031.28" class="st2" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>More detailed <tspan
 						x="3.12" dy="1.2em" class="st3">information is given </tspan><tspan x="4.39" dy="1.2em" class="st3">about the resource</tspan></text>		</g>
-		<g id="shape113-588" v:mID="113" v:groupContext="shape" v:layerMember="0" transform="translate(1758.43,-269.333)">
+		<g id="shape113-588" v:mID="113" v:groupContext="shape" v:layerMember="0" transform="translate(2234.18,-269.333)">
 			<title>Dynamische verbindingslijn.113</title>
 			<desc>Clicks on resource</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="-150.236" cy="1097.65" width="68.41" height="17.6036"/>
 			<path d="M0 1055.49 L-150.24 1055.49 L-150.24 1283.02" class="st5"/>
-			<rect v:rectContext="textBkgnd" x="-179.535" y="1092.85" width="58.5972" height="9.59985" class="st7"/>
+			<rect v:rectContext="textBkgnd" x="-179.535" y="1092.85" width="58.5972" height="9.59985" class="st9"/>
 			<text x="-179.53" y="1100.05" class="st8" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>Clicks on resource</text>		</g>
-		<g id="shape114-595" v:mID="114" v:groupContext="shape" v:layerMember="1" transform="translate(2227.56,-248.073)">
+		<g id="shape114-595" v:mID="114" v:groupContext="shape" v:layerMember="1" transform="translate(2691.03,-248.073)">
 			<title>Beslissing.114</title>
 			<desc>User action</desc>
 			<v:custProps>
@@ -1981,7 +1981,7 @@
 			<v:textRect cx="35.4331" cy="1034.23" width="59.06" height="31.8898"/>
 			<path d="M0 1034.23 L35.43 1012.97 L70.87 1034.23 L35.43 1055.49 L0 1034.23 Z" class="st4"/>
 			<text x="16.94" y="1036.63" class="st2" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>User action</text>		</g>
-		<g id="shape115-598" v:mID="115" v:groupContext="shape" v:layerMember="1" transform="translate(2427.41,-0.75)">
+		<g id="shape115-598" v:mID="115" v:groupContext="shape" v:layerMember="1" transform="translate(2890.87,-0.750018)">
 			<title>Begin/einde.115</title>
 			<desc>User cycles to the next/pervious page of results (if available)</desc>
 			<v:custProps>
@@ -2014,7 +2014,7 @@
 						 0 17.01 1055.49 Z" class="st4"/>
 			<text x="5.55" y="1031.28" class="st2" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>User cycles to the next/<tspan
 						x="5.14" dy="1.2em" class="st3">pervious page of results </tspan><tspan x="24.07" dy="1.2em" class="st3">(if available)</tspan></text>		</g>
-		<g id="shape116-603" v:mID="116" v:groupContext="shape" v:layerMember="0" transform="translate(2298.43,-269.333)">
+		<g id="shape116-603" v:mID="116" v:groupContext="shape" v:layerMember="0" transform="translate(2761.89,-269.333)">
 			<title>Dynamische verbindingslijn.116</title>
 			<desc>Next Page / Previous Page</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
@@ -2023,7 +2023,7 @@
 			<rect v:rectContext="textBkgnd" x="150.203" y="1076.72" width="45.4216" height="19.1997" class="st7"/>
 			<text x="154.06" y="1083.92" class="st8" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>Next Page / <v:newlineChar/><tspan
 						x="150.2" dy="1.2em" class="st3">Previous Page</tspan></text>		</g>
-		<g id="shape117-611" v:mID="117" v:groupContext="shape" v:layerMember="1" transform="translate(2227.56,-155.238)">
+		<g id="shape117-611" v:mID="117" v:groupContext="shape" v:layerMember="1" transform="translate(2691.03,-155.238)">
 			<title>Proces.117</title>
 			<desc>User enters a shipping ID</desc>
 			<v:custProps>
@@ -2054,15 +2054,15 @@
 			<rect x="0" y="1012.97" width="70.8661" height="42.5197" class="st1"/>
 			<text x="13.81" y="1031.83" class="st2" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>User enters a <tspan
 						x="17.37" dy="1.2em" class="st3">shipping ID</tspan></text>		</g>
-		<g id="shape118-615" v:mID="118" v:groupContext="shape" v:layerMember="0" transform="translate(2255.91,-248.073)">
+		<g id="shape118-615" v:mID="118" v:groupContext="shape" v:layerMember="0" transform="translate(2719.37,-248.073)">
 			<title>Dynamische verbindingslijn.118</title>
 			<desc>Filter/Search Query</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="11.3386" cy="1061.94" width="73.35" height="17.6036"/>
 			<path d="M7.09 1055.49 L7.09 1098.76" class="st5"/>
-			<rect v:rectContext="textBkgnd" x="-20.4285" y="1057.14" width="63.5345" height="9.59985" class="st7"/>
+			<rect v:rectContext="textBkgnd" x="-20.4285" y="1057.14" width="63.5345" height="9.59985" class="st9"/>
 			<text x="-20.43" y="1064.34" class="st8" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>Filter/Search Query</text>		</g>
-		<g id="shape119-622" v:mID="119" v:groupContext="shape" v:layerMember="1" transform="translate(2219.06,-67.3642)">
+		<g id="shape119-622" v:mID="119" v:groupContext="shape" v:layerMember="1" transform="translate(2682.52,-67.3642)">
 			<title>Beslissing.119</title>
 			<desc>Are there any shipments that match the filiter’s shipping ID?</desc>
 			<v:custProps>
@@ -2095,7 +2095,7 @@
 			<text x="21.78" y="1011.6" class="st2" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>Are there any <tspan
 						x="19.46" dy="1.2em" class="st3">shipments that </tspan><tspan x="15.19" dy="1.2em" class="st3">match the filiter</tspan>’s <tspan
 						x="24.02" dy="1.2em" class="st3">shipping ID?</tspan></text>		</g>
-		<g id="shape120-628" v:mID="120" v:groupContext="shape" v:layerMember="1" transform="translate(2285.67,-0.75)">
+		<g id="shape120-628" v:mID="120" v:groupContext="shape" v:layerMember="1" transform="translate(2749.14,-0.750018)">
 			<title>Begin/einde.120</title>
 			<desc>The user is made aware that there isn’t any shipment ID that ...</desc>
 			<v:custProps>
@@ -2128,11 +2128,11 @@
 						 17.01 1055.49 Z" class="st4"/>
 			<text x="3.53" y="1031.28" class="st2" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>The user is made aware that <tspan
 						x="5.64" dy="1.2em" class="st3">there isn</tspan>’t any shipment ID <tspan x="6.88" dy="1.2em" class="st3">that matches the keyword</tspan></text>		</g>
-		<g id="shape121-633" v:mID="121" v:groupContext="shape" v:layerMember="0" transform="translate(2255.91,-155.238)">
+		<g id="shape121-633" v:mID="121" v:groupContext="shape" v:layerMember="0" transform="translate(2719.37,-155.238)">
 			<title>Dynamische verbindingslijn.121</title>
 			<path d="M7.09 1055.49 L7.09 1072.54" class="st5"/>
 		</g>
-		<g id="shape122-638" v:mID="122" v:groupContext="shape" v:layerMember="0" transform="translate(2306.93,-99.2539)">
+		<g id="shape122-638" v:mID="122" v:groupContext="shape" v:layerMember="0" transform="translate(2770.4,-99.2539)">
 			<title>Dynamische verbindingslijn.122</title>
 			<desc>No</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
@@ -2140,7 +2140,7 @@
 			<path d="M0 1055.49 L28.35 1055.49 L28.35 1112.94" class="st5"/>
 			<rect v:rectContext="textBkgnd" x="23.6551" y="1068.76" width="9.38287" height="9.59985" class="st7"/>
 			<text x="23.66" y="1075.96" class="st8" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>No</text>		</g>
-		<g id="shape123-645" v:mID="123" v:groupContext="shape" v:layerMember="1" transform="translate(2155.28,-0.75)">
+		<g id="shape123-645" v:mID="123" v:groupContext="shape" v:layerMember="1" transform="translate(2618.74,-0.750018)">
 			<title>Begin/einde.123</title>
 			<desc>Resources matching the keyword are displayed</desc>
 			<v:custProps>
@@ -2168,11 +2168,11 @@
 			</v:userDefs>
 			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
 			<v:textRect cx="43.937" cy="1041.31" width="87.88" height="28.3465"/>
-			<path d="M14.17 1055.49 L73.7 1055.49 A14.1732 14.1732 -180 0 0 73.7 1027.14 L14.17 1027.14 A14.1732 14.1732 -180 1 0
+			<path d="M14.17 1055.49 L73.7 1055.49 A14.1732 14.1732 -180 1 0 73.7 1027.14 L14.17 1027.14 A14.1732 14.1732 -180 1 0
 						 14.17 1055.49 Z" class="st4"/>
 			<text x="4.97" y="1038.91" class="st2" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>Resources matching the <tspan
 						x="7.32" dy="1.2em" class="st3">keyword are displayed</tspan></text>		</g>
-		<g id="shape124-649" v:mID="124" v:groupContext="shape" v:layerMember="0" transform="translate(2219.06,-99.2539)">
+		<g id="shape124-649" v:mID="124" v:groupContext="shape" v:layerMember="0" transform="translate(2682.52,-99.2539)">
 			<title>Dynamische verbindingslijn.124</title>
 			<desc>Yes</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
@@ -2180,7 +2180,7 @@
 			<path d="M0 1055.49 L-19.84 1055.49 L-19.84 1118.61" class="st5"/>
 			<rect v:rectContext="textBkgnd" x="-25.3463" y="1100.01" width="11.0078" height="9.59985" class="st7"/>
 			<text x="-25.35" y="1107.21" class="st8" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>Yes</text>		</g>
-		<g id="shape125-656" v:mID="125" v:groupContext="shape" v:layerMember="1" transform="translate(2054.65,-0.75)">
+		<g id="shape125-656" v:mID="125" v:groupContext="shape" v:layerMember="1" transform="translate(2518.11,-0.750018)">
 			<title>Begin/einde.125</title>
 			<desc>More detailed information is given about the shipment</desc>
 			<v:custProps>
@@ -2213,7 +2213,7 @@
 						 0 17.01 1055.49 Z" class="st4"/>
 			<text x="12.34" y="1031.28" class="st2" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>More detailed <tspan
 						x="3.12" dy="1.2em" class="st3">information is given </tspan><tspan x="3.31" dy="1.2em" class="st3">about the shipment</tspan></text>		</g>
-		<g id="shape126-661" v:mID="126" v:groupContext="shape" v:layerMember="0" transform="translate(2227.56,-269.333)">
+		<g id="shape126-661" v:mID="126" v:groupContext="shape" v:layerMember="0" transform="translate(2691.03,-269.333)">
 			<title>Dynamische verbindingslijn.126</title>
 			<desc>Clicks on shipment</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
@@ -2221,11 +2221,11 @@
 			<path d="M0 1055.49 L-137.48 1055.49 L-137.48 1283.02" class="st5"/>
 			<rect v:rectContext="textBkgnd" x="-167.855" y="1099.23" width="60.7492" height="9.59985" class="st7"/>
 			<text x="-167.85" y="1106.43" class="st8" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>Clicks on shipment</text>		</g>
-		<g id="shape127-668" v:mID="127" v:groupContext="shape" v:layerMember="0" transform="translate(2255.91,-486.892)">
+		<g id="shape127-668" v:mID="127" v:groupContext="shape" v:layerMember="0" transform="translate(2719.37,-486.892)">
 			<title>Dynamische verbindingslijn.127</title>
 			<path d="M7.09 1055.49 L7.09 1244.75" class="st5"/>
 		</g>
-		<g id="shape128-673" v:mID="128" v:groupContext="shape" v:layerMember="1" transform="translate(2837.01,-0.75)">
+		<g id="shape128-673" v:mID="128" v:groupContext="shape" v:layerMember="1" transform="translate(3159.63,-0.75)">
 			<title>Begin/einde.128</title>
 			<desc>User gets a notification listing;</desc>
 			<v:custProps>
@@ -2261,12 +2261,12 @@
 			<title>Dynamische verbindingslijn.129</title>
 			<desc>Company User requests his notification</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="481.89" cy="1539.84" width="87.29" height="27.2035"/>
-			<path d="M0 1055.49 L481.89 1055.49 L481.89 1663.57" class="st5"/>
-			<rect v:rectContext="textBkgnd" x="443.152" y="1530.24" width="77.4761" height="19.1997" class="st7"/>
-			<text x="443.15" y="1537.44" class="st8" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>Company User requests<v:lf/><tspan
-						x="457.72" dy="1.2em" class="st3">his notification</tspan></text>		</g>
-		<g id="shape130-685" v:mID="130" v:groupContext="shape" v:layerMember="1" transform="translate(3418.11,-489.726)">
+			<v:textRect cx="804.508" cy="1501.38" width="87.29" height="27.2035"/>
+			<path d="M0 1055.49 L804.51 1055.49 L804.51 1663.57" class="st5"/>
+			<rect v:rectContext="textBkgnd" x="765.77" y="1491.78" width="77.4761" height="19.1997" class="st9"/>
+			<text x="765.77" y="1498.98" class="st8" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>Company User requests<v:lf/><tspan
+						x="780.34" dy="1.2em" class="st3">his notification</tspan></text>		</g>
+		<g id="shape130-685" v:mID="130" v:groupContext="shape" v:layerMember="1" transform="translate(3703,-468.684)">
 			<title>Proces.130</title>
 			<desc>User is redirected to the market place</desc>
 			<v:custProps>
@@ -2301,12 +2301,12 @@
 			<title>Dynamische verbindingslijn.131</title>
 			<desc>Go to Marketplace</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="1062.99" cy="1094.54" width="50.81" height="27.2035"/>
-			<path d="M0 1055.49 L1062.99 1055.49 L1062.99 1160.42" class="st5"/>
-			<rect v:rectContext="textBkgnd" x="1042.5" y="1084.94" width="40.9916" height="19.1997" class="st9"/>
-			<text x="1054.01" y="1092.14" class="st8" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>Go to<v:newlineChar/><tspan
-						x="1042.5" dy="1.2em" class="st3">Marketplace</tspan></text>		</g>
-		<g id="shape132-697" v:mID="132" v:groupContext="shape" v:layerMember="1" transform="translate(3418.11,-404.687)">
+			<v:textRect cx="1347.87" cy="1096.6" width="50.81" height="27.2035"/>
+			<path d="M0 1055.49 L1347.87 1055.49 L1347.87 1181.46" class="st5"/>
+			<rect v:rectContext="textBkgnd" x="1327.38" y="1087" width="40.9916" height="19.1997" class="st9"/>
+			<text x="1338.89" y="1094.2" class="st8" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>Go to<v:newlineChar/><tspan
+						x="1327.38" dy="1.2em" class="st3">Marketplace</tspan></text>		</g>
+		<g id="shape132-697" v:mID="132" v:groupContext="shape" v:layerMember="1" transform="translate(3703,-383.645)">
 			<title>Beslissing.132</title>
 			<desc>User action</desc>
 			<v:custProps>
@@ -2336,11 +2336,11 @@
 			<v:textRect cx="35.4331" cy="1034.23" width="59.06" height="31.8898"/>
 			<path d="M0 1034.23 L35.43 1012.97 L70.87 1034.23 L35.43 1055.49 L0 1034.23 Z" class="st4"/>
 			<text x="16.94" y="1036.63" class="st2" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>User action</text>		</g>
-		<g id="shape133-700" v:mID="133" v:groupContext="shape" v:layerMember="0" transform="translate(3446.46,-489.726)">
+		<g id="shape133-700" v:mID="133" v:groupContext="shape" v:layerMember="0" transform="translate(3731.34,-468.684)">
 			<title>Dynamische verbindingslijn.133</title>
 			<path d="M7.09 1055.49 L7.09 1090.97" class="st5"/>
 		</g>
-		<g id="shape134-705" v:mID="134" v:groupContext="shape" v:layerMember="1" transform="translate(3011.87,-333.821)">
+		<g id="shape134-705" v:mID="134" v:groupContext="shape" v:layerMember="1" transform="translate(3296.76,-312.779)">
 			<title>Proces.134</title>
 			<desc>User gets a list of all outgoing orders</desc>
 			<v:custProps>
@@ -2371,7 +2371,7 @@
 			<rect x="0" y="1012.97" width="70.8661" height="42.5197" class="st1"/>
 			<text x="2.88" y="1031.83" class="st2" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>User gets a list of all <tspan
 						x="9.53" dy="1.2em" class="st3">outgoing orders</tspan></text>		</g>
-		<g id="shape135-709" v:mID="135" v:groupContext="shape" v:layerMember="0" transform="translate(3418.11,-425.947)">
+		<g id="shape135-709" v:mID="135" v:groupContext="shape" v:layerMember="0" transform="translate(3703,-404.905)">
 			<title>Dynamische verbindingslijn.135</title>
 			<desc>Check outgoing</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
@@ -2379,7 +2379,7 @@
 			<path d="M0 1055.49 L-370.81 1055.49 L-370.81 1098.05" class="st5"/>
 			<rect v:rectContext="textBkgnd" x="-235.29" y="1050.69" width="50.1674" height="9.59985" class="st7"/>
 			<text x="-235.29" y="1057.89" class="st8" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>Check outgoing</text>		</g>
-		<g id="shape136-716" v:mID="136" v:groupContext="shape" v:layerMember="1" transform="translate(3006.91,-242.829)">
+		<g id="shape136-716" v:mID="136" v:groupContext="shape" v:layerMember="1" transform="translate(3291.8,-221.787)">
 			<title>Beslissing.136</title>
 			<desc>Is there a faulty/irrelevant order?</desc>
 			<v:custProps>
@@ -2410,11 +2410,11 @@
 			<path d="M0 1031.25 L40.39 1007.02 L80.79 1031.25 L40.39 1055.49 L0 1031.25 Z" class="st4"/>
 			<text x="13.52" y="1028.85" class="st2" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>Is there a faulty/<tspan
 						x="12.88" dy="1.2em" class="st3">irrelevant order?</tspan></text>		</g>
-		<g id="shape137-720" v:mID="137" v:groupContext="shape" v:layerMember="0" transform="translate(3040.22,-333.821)">
+		<g id="shape137-720" v:mID="137" v:groupContext="shape" v:layerMember="0" transform="translate(3325.1,-312.779)">
 			<title>Dynamische verbindingslijn.137</title>
 			<path d="M7.09 1055.49 L7.09 1090.97" class="st5"/>
 		</g>
-		<g id="shape138-725" v:mID="138" v:groupContext="shape" v:layerMember="1" transform="translate(3139.43,-252.892)">
+		<g id="shape138-725" v:mID="138" v:groupContext="shape" v:layerMember="1" transform="translate(3424.32,-231.85)">
 			<title>Begin/einde.138</title>
 			<desc>The user cancels the order in question</desc>
 			<v:custProps>
@@ -2446,15 +2446,15 @@
 						 0 14.17 1055.49 Z" class="st4"/>
 			<text x="2.32" y="1038.91" class="st2" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>The user cancels the <tspan
 						x="7.39" dy="1.2em" class="st3">order in question</tspan></text>		</g>
-		<g id="shape139-729" v:mID="139" v:groupContext="shape" v:layerMember="0" transform="translate(3087.7,-274.152)">
+		<g id="shape139-729" v:mID="139" v:groupContext="shape" v:layerMember="0" transform="translate(3372.58,-253.109)">
 			<title>Dynamische verbindingslijn.139</title>
 			<desc>Yes</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="25.8661" cy="1062.57" width="40" height="17.6036"/>
 			<path d="M0 1062.57 L44.69 1062.57" class="st5"/>
-			<rect v:rectContext="textBkgnd" x="20.3623" y="1057.78" width="11.0078" height="9.59985" class="st7"/>
+			<rect v:rectContext="textBkgnd" x="20.3623" y="1057.78" width="11.0078" height="9.59985" class="st9"/>
 			<text x="20.36" y="1064.97" class="st8" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>Yes</text>		</g>
-		<g id="shape140-736" v:mID="140" v:groupContext="shape" v:layerMember="1" transform="translate(3002.31,-159.399)">
+		<g id="shape140-736" v:mID="140" v:groupContext="shape" v:layerMember="1" transform="translate(3287.19,-138.357)">
 			<title>Beslissing.140</title>
 			<desc>Does the user need to place a new order?</desc>
 			<v:custProps>
@@ -2485,15 +2485,15 @@
 			<path d="M0 1026.69 L45 997.89 L90 1026.69 L45 1055.49 L0 1026.69 Z" class="st4"/>
 			<text x="13.5" y="1024.29" class="st2" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>Does the user need <tspan
 						x="9.61" dy="1.2em" class="st3">to place a new order?</tspan></text>		</g>
-		<g id="shape141-740" v:mID="141" v:groupContext="shape" v:layerMember="0" transform="translate(3040.22,-242.829)">
+		<g id="shape141-740" v:mID="141" v:groupContext="shape" v:layerMember="0" transform="translate(3325.1,-221.787)">
 			<title>Dynamische verbindingslijn.141</title>
 			<desc>No</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="7.08661" cy="1068.4" width="40" height="17.6036"/>
 			<path d="M7.09 1055.49 L7.09 1074.28" class="st5"/>
-			<rect v:rectContext="textBkgnd" x="2.39524" y="1063.6" width="9.38287" height="9.59985" class="st7"/>
+			<rect v:rectContext="textBkgnd" x="2.39524" y="1063.6" width="9.38287" height="9.59985" class="st9"/>
 			<text x="2.4" y="1070.8" class="st8" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>No</text>		</g>
-		<g id="shape142-747" v:mID="142" v:groupContext="shape" v:layerMember="1" transform="translate(3139.43,-174.026)">
+		<g id="shape142-747" v:mID="142" v:groupContext="shape" v:layerMember="1" transform="translate(3424.32,-152.983)">
 			<title>Begin/einde.142</title>
 			<desc>The user places a new order</desc>
 			<v:custProps>
@@ -2525,7 +2525,7 @@
 						 0 14.17 1055.49 Z" class="st4"/>
 			<text x="7.53" y="1038.91" class="st2" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>The user places a <tspan
 						x="18.59" dy="1.2em" class="st3">new order</tspan></text>		</g>
-		<g id="shape143-751" v:mID="143" v:groupContext="shape" v:layerMember="0" transform="translate(3092.31,-195.285)">
+		<g id="shape143-751" v:mID="143" v:groupContext="shape" v:layerMember="0" transform="translate(3377.19,-174.243)">
 			<title>Dynamische verbindingslijn.143</title>
 			<desc>Yes</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
@@ -2533,7 +2533,7 @@
 			<path d="M0 1062.57 L40.09 1062.57" class="st5"/>
 			<rect v:rectContext="textBkgnd" x="18.0592" y="1057.78" width="11.0078" height="9.59985" class="st7"/>
 			<text x="18.06" y="1064.97" class="st8" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>Yes</text>		</g>
-		<g id="shape145-758" v:mID="145" v:groupContext="shape" v:layerMember="0" transform="translate(3040.22,-159.399)">
+		<g id="shape145-758" v:mID="145" v:groupContext="shape" v:layerMember="0" transform="translate(3325.1,-138.357)">
 			<title>Dynamische verbindingslijn.145</title>
 			<desc>No</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
@@ -2541,7 +2541,7 @@
 			<path d="M7.09 1055.49 L7.09 1074.28" class="st5"/>
 			<rect v:rectContext="textBkgnd" x="2.39518" y="1060.35" width="9.38287" height="9.59985" class="st7"/>
 			<text x="2.4" y="1067.55" class="st8" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>No</text>		</g>
-		<g id="shape146-765" v:mID="146" v:groupContext="shape" v:layerMember="1" transform="translate(3276.38,-333.821)">
+		<g id="shape146-765" v:mID="146" v:groupContext="shape" v:layerMember="1" transform="translate(3561.26,-312.779)">
 			<title>Proces.146</title>
 			<desc>User gets a list of all incoming orders</desc>
 			<v:custProps>
@@ -2572,7 +2572,7 @@
 			<rect x="0" y="1012.97" width="70.8661" height="42.5197" class="st1"/>
 			<text x="2.88" y="1031.83" class="st2" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>User gets a list of all <tspan
 						x="9.06" dy="1.2em" class="st3">incoming orders</tspan></text>		</g>
-		<g id="shape147-769" v:mID="147" v:groupContext="shape" v:layerMember="0" transform="translate(3453.55,-404.687)">
+		<g id="shape147-769" v:mID="147" v:groupContext="shape" v:layerMember="0" transform="translate(3738.43,-383.645)">
 			<title>Dynamische verbindingslijn.147</title>
 			<desc>Check incoming orders</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
@@ -2580,7 +2580,7 @@
 			<path d="M0 1055.49 L0 1062.57 L-141.73 1062.57 L-141.73 1076.79" class="st5"/>
 			<rect v:rectContext="textBkgnd" x="-114.968" y="1057.78" width="74.0305" height="9.59985" class="st7"/>
 			<text x="-114.97" y="1064.97" class="st8" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>Check incoming orders</text>		</g>
-		<g id="shape148-776" v:mID="148" v:groupContext="shape" v:layerMember="1" transform="translate(3276.38,-265.789)">
+		<g id="shape148-776" v:mID="148" v:groupContext="shape" v:layerMember="1" transform="translate(3561.26,-244.747)">
 			<title>Beslissing.148</title>
 			<desc>Is there an interesting order?</desc>
 			<v:custProps>
@@ -2612,11 +2612,11 @@
 			<path d="M0 1032.81 L35.43 1010.13 L70.87 1032.81 L35.43 1055.49 L0 1032.81 Z" class="st4"/>
 			<text x="18.22" y="1025.61" class="st2" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>Is there an <tspan
 						x="17.89" dy="1.2em" class="st3">interesting </tspan><tspan x="24.59" dy="1.2em" class="st3">order?</tspan></text>		</g>
-		<g id="shape149-781" v:mID="149" v:groupContext="shape" v:layerMember="0" transform="translate(3304.73,-333.821)">
+		<g id="shape149-781" v:mID="149" v:groupContext="shape" v:layerMember="0" transform="translate(3589.61,-312.779)">
 			<title>Dynamische verbindingslijn.149</title>
 			<path d="M7.09 1055.49 L7.09 1071.13" class="st5"/>
 		</g>
-		<g id="shape150-786" v:mID="150" v:groupContext="shape" v:layerMember="1" transform="translate(3276.38,-185.818)">
+		<g id="shape150-786" v:mID="150" v:groupContext="shape" v:layerMember="1" transform="translate(3561.26,-164.775)">
 			<title>Begin/einde.150</title>
 			<desc>The user marks the order as to be ignored</desc>
 			<v:custProps>
@@ -2649,11 +2649,11 @@
 						 0 17.01 1055.49 Z" class="st4"/>
 			<text x="4.31" y="1031.28" class="st2" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>The user marks the <tspan
 						x="12.71" dy="1.2em" class="st3">order as to be </tspan><tspan x="22.94" dy="1.2em" class="st3">ignored</tspan></text>		</g>
-		<g id="shape151-791" v:mID="151" v:groupContext="shape" v:layerMember="0" transform="translate(3304.73,-265.789)">
+		<g id="shape151-791" v:mID="151" v:groupContext="shape" v:layerMember="0" transform="translate(3589.61,-244.747)">
 			<title>Dynamische verbindingslijn.151</title>
 			<path d="M7.09 1055.49 L7.09 1094.4" class="st5"/>
 		</g>
-		<g id="shape152-796" v:mID="152" v:groupContext="shape" v:layerMember="1" transform="translate(3418.11,-267.207)">
+		<g id="shape152-796" v:mID="152" v:groupContext="shape" v:layerMember="1" transform="translate(3703,-246.164)">
 			<title>Proces.152</title>
 			<desc>The user recieves a overview of all bets placed on the order</desc>
 			<v:custProps>
@@ -2684,11 +2684,11 @@
 			<rect x="0" y="1012.97" width="70.8661" height="42.5197" class="st1"/>
 			<text x="4.37" y="1027.03" class="st2" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>The user recieves a <tspan
 						x="3.77" dy="1.2em" class="st3">overview of all bets </tspan><tspan x="3.37" dy="1.2em" class="st3">placed on the order</tspan></text>		</g>
-		<g id="shape153-801" v:mID="153" v:groupContext="shape" v:layerMember="0" transform="translate(3347.25,-281.38)">
+		<g id="shape153-801" v:mID="153" v:groupContext="shape" v:layerMember="0" transform="translate(3632.13,-260.338)">
 			<title>Dynamische verbindingslijn.153</title>
 			<path d="M0 1048.4 L63.83 1048.4" class="st5"/>
 		</g>
-		<g id="shape154-806" v:mID="154" v:groupContext="shape" v:layerMember="1" transform="translate(3418.11,-190.671)">
+		<g id="shape154-806" v:mID="154" v:groupContext="shape" v:layerMember="1" transform="translate(3703,-169.629)">
 			<title>Beslissing.154</title>
 			<desc>Is there a previous offered price?</desc>
 			<v:custProps>
@@ -2720,11 +2720,11 @@
 			<path d="M0 1032.81 L35.43 1010.13 L70.87 1032.81 L35.43 1055.49 L0 1032.81 Z" class="st4"/>
 			<text x="20.32" y="1025.61" class="st2" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>Is there a <tspan
 						x="8.52" dy="1.2em" class="st3">previous offered </tspan><tspan x="25.48" dy="1.2em" class="st3">price?</tspan></text>		</g>
-		<g id="shape155-811" v:mID="155" v:groupContext="shape" v:layerMember="0" transform="translate(3446.46,-267.207)">
+		<g id="shape155-811" v:mID="155" v:groupContext="shape" v:layerMember="0" transform="translate(3731.34,-246.164)">
 			<title>Dynamische verbindingslijn.155</title>
 			<path d="M7.09 1055.49 L7.09 1079.63" class="st5"/>
 		</g>
-		<g id="shape156-816" v:mID="156" v:groupContext="shape" v:layerMember="1" transform="translate(3418.11,-107.049)">
+		<g id="shape156-816" v:mID="156" v:groupContext="shape" v:layerMember="1" transform="translate(3703,-86.007)">
 			<title>Begin/einde.156</title>
 			<desc>The user places a price for which he can deliver the goods</desc>
 			<v:custProps>
@@ -2758,11 +2758,11 @@
 			<text x="7.53" y="1022.23" class="st2" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>The user places a <tspan
 						x="6.14" dy="1.2em" class="st3">price for which he </tspan><tspan x="11.37" dy="1.2em" class="st3">can deliver the </tspan><tspan
 						x="25.67" dy="1.2em" class="st3">goods</tspan></text>		</g>
-		<g id="shape157-822" v:mID="157" v:groupContext="shape" v:layerMember="0" transform="translate(3446.46,-190.671)">
+		<g id="shape157-822" v:mID="157" v:groupContext="shape" v:layerMember="0" transform="translate(3731.34,-169.629)">
 			<title>Dynamische verbindingslijn.157</title>
 			<path d="M7.09 1055.49 L7.09 1089.55" class="st5"/>
 		</g>
-		<g id="shape158-827" v:mID="158" v:groupContext="shape" v:layerMember="1" transform="translate(3559.85,-178.154)">
+		<g id="shape158-827" v:mID="158" v:groupContext="shape" v:layerMember="1" transform="translate(3844.73,-157.111)">
 			<title>Beslissing.158</title>
 			<desc>Does the user want to alter or delete the price?</desc>
 			<v:custProps>
@@ -2793,11 +2793,11 @@
 			<path d="M0 1020.29 L54.99 985.1 L109.98 1020.29 L54.99 1055.49 L0 1020.29 Z" class="st4"/>
 			<text x="19.1" y="1017.89" class="st2" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>Does the user want to <tspan
 						x="14.6" dy="1.2em" class="st3">alter or delete the price?</tspan></text>		</g>
-		<g id="shape159-831" v:mID="159" v:groupContext="shape" v:layerMember="0" transform="translate(3488.98,-206.262)">
+		<g id="shape159-831" v:mID="159" v:groupContext="shape" v:layerMember="0" transform="translate(3773.86,-185.22)">
 			<title>Dynamische verbindingslijn.159</title>
 			<path d="M0 1048.4 L63.83 1048.4" class="st5"/>
 		</g>
-		<g id="shape160-836" v:mID="160" v:groupContext="shape" v:layerMember="1" transform="translate(3579.41,-114.136)">
+		<g id="shape160-836" v:mID="160" v:groupContext="shape" v:layerMember="1" transform="translate(3864.29,-93.0936)">
 			<title>Begin/einde.160</title>
 			<desc>The user deletes the bet</desc>
 			<v:custProps>
@@ -2829,7 +2829,7 @@
 						 0 14.17 1055.49 Z" class="st4"/>
 			<text x="2.3" y="1038.91" class="st2" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>The user deletes the <tspan
 						x="30" dy="1.2em" class="st3">bet</tspan></text>		</g>
-		<g id="shape161-840" v:mID="161" v:groupContext="shape" v:layerMember="0" transform="translate(3607.75,-178.154)">
+		<g id="shape161-840" v:mID="161" v:groupContext="shape" v:layerMember="0" transform="translate(3892.63,-157.111)">
 			<title>Dynamische verbindingslijn.161</title>
 			<desc>Delete</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
@@ -2837,7 +2837,7 @@
 			<path d="M7.09 1055.49 L7.09 1084.12" class="st5"/>
 			<rect v:rectContext="textBkgnd" x="-3.60247" y="1068.52" width="21.3783" height="9.59985" class="st7"/>
 			<text x="-3.6" y="1075.72" class="st8" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>Delete</text>		</g>
-		<g id="shape162-847" v:mID="162" v:groupContext="shape" v:layerMember="1" transform="translate(3733.67,-199.175)">
+		<g id="shape162-847" v:mID="162" v:groupContext="shape" v:layerMember="1" transform="translate(4018.56,-178.133)">
 			<title>Begin/einde.162</title>
 			<desc>The user alteres the prices</desc>
 			<v:custProps>
@@ -2869,7 +2869,7 @@
 						 0 14.17 1055.49 Z" class="st4"/>
 			<text x="3.08" y="1038.91" class="st2" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>The user alteres the <tspan
 						x="25.77" dy="1.2em" class="st3">prices</tspan></text>		</g>
-		<g id="shape163-851" v:mID="163" v:groupContext="shape" v:layerMember="0" transform="translate(3669.83,-220.435)">
+		<g id="shape163-851" v:mID="163" v:groupContext="shape" v:layerMember="0" transform="translate(3954.71,-199.393)">
 			<title>Dynamische verbindingslijn.163</title>
 			<desc>Alter</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
@@ -2877,7 +2877,7 @@
 			<path d="M0 1062.57 L56.8 1062.57" class="st5"/>
 			<rect v:rectContext="textBkgnd" x="23.965" y="1057.78" width="15.9137" height="9.59985" class="st7"/>
 			<text x="23.97" y="1064.97" class="st8" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>Alter</text>		</g>
-		<g id="shape164-858" v:mID="164" v:groupContext="shape" v:layerMember="1" transform="translate(3002.31,-75.9687)">
+		<g id="shape164-858" v:mID="164" v:groupContext="shape" v:layerMember="1" transform="translate(3287.19,-54.9265)">
 			<title>Beslissing.164</title>
 			<desc>Is there a order with offered prices?</desc>
 			<v:custProps>
@@ -2908,7 +2908,7 @@
 			<path d="M0 1026.69 L45 997.89 L90 1026.69 L45 1055.49 L0 1026.69 Z" class="st4"/>
 			<text x="11.87" y="1024.29" class="st2" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>Is there a order with <tspan
 						x="20.55" dy="1.2em" class="st3">offered prices?</tspan></text>		</g>
-		<g id="shape165-862" v:mID="165" v:groupContext="shape" v:layerMember="1" transform="translate(3011.87,-21.7923)">
+		<g id="shape165-862" v:mID="165" v:groupContext="shape" v:layerMember="1" transform="translate(3296.76,-0.750018)">
 			<title>Begin/einde.165</title>
 			<desc>No Action is needed</desc>
 			<v:custProps>
@@ -2939,7 +2939,7 @@
 			<path d="M14.17 1055.49 L56.69 1055.49 A14.1732 14.1732 -180 0 0 56.69 1027.14 L14.17 1027.14 A14.1732 14.1732 -180 1
 						 0 14.17 1055.49 Z" class="st4"/>
 			<text x="2.8" y="1043.71" class="st2" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>No Action is needed</text>		</g>
-		<g id="shape166-865" v:mID="166" v:groupContext="shape" v:layerMember="0" transform="translate(3040.22,-75.9687)">
+		<g id="shape166-865" v:mID="166" v:groupContext="shape" v:layerMember="0" transform="translate(3325.1,-54.9265)">
 			<title>Dynamische verbindingslijn.166</title>
 			<desc>No</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
@@ -2947,7 +2947,7 @@
 			<path d="M7.09 1055.49 L7.09 1074.28" class="st5"/>
 			<rect v:rectContext="textBkgnd" x="2.39524" y="1063.6" width="9.38287" height="9.59985" class="st7"/>
 			<text x="2.4" y="1070.8" class="st8" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>No</text>		</g>
-		<g id="shape167-872" v:mID="167" v:groupContext="shape" v:layerMember="1" transform="translate(3139.43,-75.9687)">
+		<g id="shape167-872" v:mID="167" v:groupContext="shape" v:layerMember="1" transform="translate(3424.32,-54.9265)">
 			<title>Beslissing.167</title>
 			<desc>Is there a price which the user likes?</desc>
 			<v:custProps>
@@ -2978,15 +2978,15 @@
 			<path d="M0 1026.69 L45 997.89 L90 1026.69 L45 1055.49 L0 1026.69 Z" class="st4"/>
 			<text x="10.31" y="1024.29" class="st2" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>Is there a price which <tspan
 						x="21.65" dy="1.2em" class="st3">the user likes?</tspan></text>		</g>
-		<g id="shape168-876" v:mID="168" v:groupContext="shape" v:layerMember="0" transform="translate(3092.31,-97.6821)">
+		<g id="shape168-876" v:mID="168" v:groupContext="shape" v:layerMember="0" transform="translate(3377.19,-76.6399)">
 			<title>Dynamische verbindingslijn.168</title>
 			<desc>Yes</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="23.563" cy="1048.4" width="40" height="17.6036"/>
 			<path d="M0 1048.4 L40.09 1048.4" class="st5"/>
-			<rect v:rectContext="textBkgnd" x="18.0592" y="1043.6" width="11.0078" height="9.59985" class="st7"/>
+			<rect v:rectContext="textBkgnd" x="18.0592" y="1043.6" width="11.0078" height="9.59985" class="st9"/>
 			<text x="18.06" y="1050.8" class="st8" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>Yes</text>		</g>
-		<g id="shape169-883" v:mID="169" v:groupContext="shape" v:layerMember="1" transform="translate(3149,-21.7923)">
+		<g id="shape169-883" v:mID="169" v:groupContext="shape" v:layerMember="1" transform="translate(3433.88,-0.750018)">
 			<title>Begin/einde.169</title>
 			<desc>The user cancels the order</desc>
 			<v:custProps>
@@ -3018,7 +3018,7 @@
 						 0 14.17 1055.49 Z" class="st4"/>
 			<text x="2.32" y="1038.91" class="st2" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>The user cancels the <tspan
 						x="26.44" dy="1.2em" class="st3">order</tspan></text>		</g>
-		<g id="shape170-887" v:mID="170" v:groupContext="shape" v:layerMember="0" transform="translate(3177.35,-75.9687)">
+		<g id="shape170-887" v:mID="170" v:groupContext="shape" v:layerMember="0" transform="translate(3462.23,-54.9265)">
 			<title>Dynamische verbindingslijn.170</title>
 			<desc>No</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
@@ -3026,7 +3026,7 @@
 			<path d="M7.09 1055.49 L7.09 1074.28" class="st5"/>
 			<rect v:rectContext="textBkgnd" x="2.39524" y="1063.6" width="9.38287" height="9.59985" class="st7"/>
 			<text x="2.4" y="1070.8" class="st8" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>No</text>		</g>
-		<g id="shape171-894" v:mID="171" v:groupContext="shape" v:layerMember="1" transform="translate(3265.04,-90.5955)">
+		<g id="shape171-894" v:mID="171" v:groupContext="shape" v:layerMember="1" transform="translate(3549.93,-69.5533)">
 			<title>Begin/einde.171</title>
 			<desc>The user accepts his favorite price</desc>
 			<v:custProps>
@@ -3058,7 +3058,7 @@
 						 0 14.17 1055.49 Z" class="st4"/>
 			<text x="2.75" y="1038.91" class="st2" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>The user accepts his <tspan
 						x="13.74" dy="1.2em" class="st3">favorite price</tspan></text>		</g>
-		<g id="shape172-898" v:mID="172" v:groupContext="shape" v:layerMember="0" transform="translate(3229.43,-111.855)">
+		<g id="shape172-898" v:mID="172" v:groupContext="shape" v:layerMember="0" transform="translate(3514.32,-90.8131)">
 			<title>Dynamische verbindingslijn.172</title>
 			<desc>Yes</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
@@ -3066,7 +3066,7 @@
 			<path d="M0 1062.57 L28.57 1062.57" class="st5"/>
 			<rect v:rectContext="textBkgnd" x="12.3013" y="1057.78" width="11.0078" height="9.59985" class="st7"/>
 			<text x="12.3" y="1064.97" class="st8" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>Yes</text>		</g>
-		<g id="shape173-905" v:mID="173" v:groupContext="shape" v:layerMember="1" transform="translate(3857.48,-333.821)">
+		<g id="shape173-905" v:mID="173" v:groupContext="shape" v:layerMember="1" transform="translate(4142.37,-312.779)">
 			<title>Proces.173</title>
 			<desc>User gets a list of all the order he needs to fulfill</desc>
 			<v:custProps>
@@ -3097,7 +3097,7 @@
 			<rect x="0" y="1012.97" width="70.8661" height="42.5197" class="st1"/>
 			<text x="2.88" y="1027.03" class="st2" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>User gets a list of all <tspan
 						x="4.46" dy="1.2em" class="st3">the order he needs </tspan><tspan x="22.87" dy="1.2em" class="st3">to fulfill</tspan></text>		</g>
-		<g id="shape174-910" v:mID="174" v:groupContext="shape" v:layerMember="0" transform="translate(3488.98,-425.947)">
+		<g id="shape174-910" v:mID="174" v:groupContext="shape" v:layerMember="0" transform="translate(3773.86,-404.905)">
 			<title>Dynamische verbindingslijn.174</title>
 			<desc>Check orders that need to be fulfilled</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
@@ -3105,7 +3105,7 @@
 			<path d="M0 1055.49 L403.94 1055.49 L403.94 1098.05" class="st5"/>
 			<rect v:rectContext="textBkgnd" x="166.329" y="1050.69" width="120.885" height="9.59985" class="st7"/>
 			<text x="166.33" y="1057.89" class="st8" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>Check orders that need to be fulfilled</text>		</g>
-		<g id="shape176-917" v:mID="176" v:groupContext="shape" v:layerMember="1" transform="translate(3838.35,-203.994)">
+		<g id="shape176-917" v:mID="176" v:groupContext="shape" v:layerMember="1" transform="translate(4123.23,-182.952)">
 			<title>Beslissing.176</title>
 			<desc>Has the user a order that he’s shipped out to the customer?</desc>
 			<v:custProps>
@@ -3137,11 +3137,11 @@
 			<path d="M0 1011.83 L54.57 968.18 L109.13 1011.83 L54.57 1055.49 L0 1011.83 Z" class="st4"/>
 			<text x="13.99" y="1004.63" class="st2" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>Has the user a order that <tspan
 						x="16.99" dy="1.2em" class="st3">he</tspan>’s shipped out to the <tspan x="37.33" dy="1.2em" class="st3">customer?</tspan></text>		</g>
-		<g id="shape177-922" v:mID="177" v:groupContext="shape" v:layerMember="0" transform="translate(3885.83,-333.821)">
+		<g id="shape177-922" v:mID="177" v:groupContext="shape" v:layerMember="0" transform="translate(4170.71,-312.779)">
 			<title>Dynamische verbindingslijn.177</title>
 			<path d="M7.09 1055.49 L7.09 1090.97" class="st5"/>
 		</g>
-		<g id="shape178-927" v:mID="178" v:groupContext="shape" v:layerMember="1" transform="translate(4024.91,-207.963)">
+		<g id="shape178-927" v:mID="178" v:groupContext="shape" v:layerMember="1" transform="translate(4309.79,-186.92)">
 			<title>Beslissing.178</title>
 			<desc>Does a user a tracking number that’s associated with it?</desc>
 			<v:custProps>
@@ -3173,15 +3173,15 @@
 			<path d="M0 1015.8 L49.61 976.12 L99.21 1015.8 L49.61 1055.49 L0 1015.8 Z" class="st4"/>
 			<text x="13.92" y="1008.6" class="st2" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>Does a user a tracking <tspan
 						x="26.56" dy="1.2em" class="st3">number that</tspan>’s <tspan x="19.36" dy="1.2em" class="st3">associated with it?</tspan></text>		</g>
-		<g id="shape179-932" v:mID="179" v:groupContext="shape" v:layerMember="0" transform="translate(3947.48,-240.561)">
+		<g id="shape179-932" v:mID="179" v:groupContext="shape" v:layerMember="0" transform="translate(4232.37,-219.519)">
 			<title>Dynamische verbindingslijn.179</title>
 			<desc>Yes</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="38.7135" cy="1048.4" width="40" height="17.6036"/>
 			<path d="M0 1048.4 L70.39 1048.4" class="st5"/>
-			<rect v:rectContext="textBkgnd" x="33.2097" y="1043.6" width="11.0078" height="9.59985" class="st9"/>
+			<rect v:rectContext="textBkgnd" x="33.2097" y="1043.6" width="11.0078" height="9.59985" class="st7"/>
 			<text x="33.21" y="1050.8" class="st8" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>Yes</text>		</g>
-		<g id="shape180-939" v:mID="180" v:groupContext="shape" v:layerMember="1" transform="translate(3857.48,-114.136)">
+		<g id="shape180-939" v:mID="180" v:groupContext="shape" v:layerMember="1" transform="translate(4142.37,-93.0936)">
 			<title>Begin/einde.180</title>
 			<desc>No action is performed</desc>
 			<v:custProps>
@@ -3213,15 +3213,15 @@
 						 0 14.17 1055.49 Z" class="st4"/>
 			<text x="16.37" y="1038.91" class="st2" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>No action is <tspan
 						x="17.94" dy="1.2em" class="st3">performed</tspan></text>		</g>
-		<g id="shape181-943" v:mID="181" v:groupContext="shape" v:layerMember="0" transform="translate(3885.83,-203.994)">
+		<g id="shape181-943" v:mID="181" v:groupContext="shape" v:layerMember="0" transform="translate(4170.71,-182.952)">
 			<title>Dynamische verbindingslijn.181</title>
 			<desc>No</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="7.08661" cy="1086.24" width="40" height="17.6036"/>
 			<path d="M7.09 1055.49 L7.09 1109.96" class="st5"/>
-			<rect v:rectContext="textBkgnd" x="2.39524" y="1081.44" width="9.38287" height="9.59985" class="st9"/>
+			<rect v:rectContext="textBkgnd" x="2.39524" y="1081.44" width="9.38287" height="9.59985" class="st7"/>
 			<text x="2.4" y="1088.64" class="st8" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>No</text>		</g>
-		<g id="shape182-950" v:mID="182" v:groupContext="shape" v:layerMember="1" transform="translate(4004.45,-114.136)">
+		<g id="shape182-950" v:mID="182" v:groupContext="shape" v:layerMember="1" transform="translate(4289.33,-93.0936)">
 			<title>Begin/einde.182</title>
 			<desc>The system cannot validate that the order has been shipped, s...</desc>
 			<v:custProps>
@@ -3255,7 +3255,7 @@
 			<text x="11.74" y="1031.28" class="st2" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>The system cannot validate that the <tspan
 						x="2.56" dy="1.2em" class="st3">order has been shipped, so the status will </tspan><tspan x="39.66"
 						dy="1.2em" class="st3">remain unchanged</tspan></text>		</g>
-		<g id="shape183-955" v:mID="183" v:groupContext="shape" v:layerMember="0" transform="translate(4067.43,-207.963)">
+		<g id="shape183-955" v:mID="183" v:groupContext="shape" v:layerMember="0" transform="translate(4352.31,-186.92)">
 			<title>Dynamische verbindingslijn.183</title>
 			<desc>No</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
@@ -3263,7 +3263,7 @@
 			<path d="M7.09 1055.49 L7.09 1108.26" class="st5"/>
 			<rect v:rectContext="textBkgnd" x="2.39524" y="1080.59" width="9.38287" height="9.59985" class="st9"/>
 			<text x="2.4" y="1087.79" class="st8" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>No</text>		</g>
-		<g id="shape184-962" v:mID="184" v:groupContext="shape" v:layerMember="1" transform="translate(4170.1,-230.64)">
+		<g id="shape184-962" v:mID="184" v:groupContext="shape" v:layerMember="1" transform="translate(4454.98,-209.598)">
 			<title>Begin/einde.184</title>
 			<desc>The system recognizes that the item has been shipped and remo...</desc>
 			<v:custProps>
@@ -3297,11 +3297,11 @@
 			<text x="4.76" y="1031.28" class="st2" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>The system recognizes that the item has <tspan
 						x="2.61" dy="1.2em" class="st3">been shipped and removes the item from </tspan><tspan x="16.03" dy="1.2em"
 						class="st3">the item that need to be fulfilled.</tspan></text>		</g>
-		<g id="shape185-967" v:mID="185" v:groupContext="shape" v:layerMember="0" transform="translate(4124.12,-254.734)">
+		<g id="shape185-967" v:mID="185" v:groupContext="shape" v:layerMember="0" transform="translate(4409.01,-233.692)">
 			<title>Dynamische verbindingslijn.185</title>
 			<path d="M0 1062.57 L38.93 1062.57" class="st5"/>
 		</g>
-		<g id="shape186-972" v:mID="186" v:groupContext="shape" v:layerMember="1" transform="translate(4374.81,-226.388)">
+		<g id="shape186-972" v:mID="186" v:groupContext="shape" v:layerMember="1" transform="translate(4659.69,-205.346)">
 			<title>Begin/einde.186</title>
 			<desc>The system also makes a new item in shipment for the respecti...</desc>
 			<v:custProps>
@@ -3335,9 +3335,397 @@
 			<text x="9.61" y="1022.23" class="st2" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>The system also <tspan
 						x="2" dy="1.2em" class="st3">makes a new item in </tspan><tspan x="8.16" dy="1.2em" class="st3">shipment for the </tspan><tspan
 						x="6.52" dy="1.2em" class="st3">respective parties</tspan></text>		</g>
-		<g id="shape187-978" v:mID="187" v:groupContext="shape" v:layerMember="0" transform="translate(4310.23,-254.734)">
+		<g id="shape187-978" v:mID="187" v:groupContext="shape" v:layerMember="0" transform="translate(4595.11,-233.692)">
 			<title>Dynamische verbindingslijn.187</title>
 			<path d="M0 1062.57 L57.54 1062.57" class="st5"/>
+		</g>
+		<g id="shape188-983" v:mID="188" v:groupContext="shape" v:layerMember="1" transform="translate(1391.34,-169.411)">
+			<title>Proces.188</title>
+			<desc>User gets redirected to a page where he can add a resource</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="Kosten" v:prompt="" v:type="7" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1043" v:cal="0"/>
+				<v:cp v:nameU="ProcessNumber" v:lbl="Procesnummer" v:prompt="" v:type="2" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1043" v:cal="0"/>
+				<v:cp v:nameU="Owner" v:lbl="Eigenaar" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1043" v:cal="0"/>
+				<v:cp v:nameU="Function" v:lbl="Functie" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1043" v:cal="0" v:val="VT4()"/>
+				<v:cp v:nameU="StartDate" v:lbl="Begindatum" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1043" v:cal="0"/>
+				<v:cp v:nameU="EndDate" v:lbl="Einddatum" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1043" v:cal="0"/>
+				<v:cp v:nameU="Status" v:lbl="Status" v:prompt="" v:type="4"
+						v:format=";Niet gestart;In uitvoering;Voltooid;Uitgesteld;Wacht op invoer" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1043" v:cal="0" v:val="VT4()"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="DefaultWidth" v:prompt="" v:val="VT0(0.98425196850394):24"/>
+				<v:ud v:nameU="DefaultHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+				<v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="35.4331" cy="1038.48" width="70.87" height="34.0157"/>
+			<rect x="0" y="1021.47" width="70.8661" height="34.0157" class="st1"/>
+			<text x="2.42" y="1031.28" class="st2" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>User gets redirected <tspan
+						x="4.13" dy="1.2em" class="st3">to a page where he </tspan><tspan x="4.74" dy="1.2em" class="st3">can add a resource</tspan></text>		</g>
+		<g id="shape189-988" v:mID="189" v:groupContext="shape" v:layerMember="1" transform="translate(1221.26,-169.411)">
+			<title>Proces.189</title>
+			<desc>User gets redirected to a page where the resources can be edi...</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="Kosten" v:prompt="" v:type="7" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1043" v:cal="0"/>
+				<v:cp v:nameU="ProcessNumber" v:lbl="Procesnummer" v:prompt="" v:type="2" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1043" v:cal="0"/>
+				<v:cp v:nameU="Owner" v:lbl="Eigenaar" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1043" v:cal="0"/>
+				<v:cp v:nameU="Function" v:lbl="Functie" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1043" v:cal="0" v:val="VT4()"/>
+				<v:cp v:nameU="StartDate" v:lbl="Begindatum" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1043" v:cal="0"/>
+				<v:cp v:nameU="EndDate" v:lbl="Einddatum" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1043" v:cal="0"/>
+				<v:cp v:nameU="Status" v:lbl="Status" v:prompt="" v:type="4"
+						v:format=";Niet gestart;In uitvoering;Voltooid;Uitgesteld;Wacht op invoer" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1043" v:cal="0" v:val="VT4()"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="DefaultWidth" v:prompt="" v:val="VT0(0.98425196850394):24"/>
+				<v:ud v:nameU="DefaultHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+				<v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="45.3543" cy="1038.48" width="90.71" height="34.0157"/>
+			<rect x="0" y="1021.47" width="90.7087" height="34.0157" class="st1"/>
+			<text x="5.17" y="1031.28" class="st2" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>User gets redirected to a <tspan
+						x="3.18" dy="1.2em" class="st3">page where the resources </tspan><tspan x="23.3" dy="1.2em" class="st3">can be edited</tspan></text>		</g>
+		<g id="shape190-993" v:mID="190" v:groupContext="shape" v:layerMember="1" transform="translate(1073.86,-169.411)">
+			<title>Proces.190</title>
+			<desc>User clicks on the delete button of the resource</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="Kosten" v:prompt="" v:type="7" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1043" v:cal="0"/>
+				<v:cp v:nameU="ProcessNumber" v:lbl="Procesnummer" v:prompt="" v:type="2" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1043" v:cal="0"/>
+				<v:cp v:nameU="Owner" v:lbl="Eigenaar" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1043" v:cal="0"/>
+				<v:cp v:nameU="Function" v:lbl="Functie" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1043" v:cal="0" v:val="VT4()"/>
+				<v:cp v:nameU="StartDate" v:lbl="Begindatum" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1043" v:cal="0"/>
+				<v:cp v:nameU="EndDate" v:lbl="Einddatum" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1043" v:cal="0"/>
+				<v:cp v:nameU="Status" v:lbl="Status" v:prompt="" v:type="4"
+						v:format=";Niet gestart;In uitvoering;Voltooid;Uitgesteld;Wacht op invoer" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1043" v:cal="0" v:val="VT4()"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="DefaultWidth" v:prompt="" v:val="VT0(0.98425196850394):24"/>
+				<v:ud v:nameU="DefaultHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+				<v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="35.4331" cy="1038.48" width="70.87" height="34.0157"/>
+			<rect x="0" y="1021.47" width="70.8661" height="34.0157" class="st1"/>
+			<text x="6.96" y="1031.28" class="st2" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>User clicks on the <tspan
+						x="2.54" dy="1.2em" class="st3">delete button of the </tspan><tspan x="21.2" dy="1.2em" class="st3">resource</tspan></text>		</g>
+		<g id="shape191-998" v:mID="191" v:groupContext="shape" v:layerMember="0" transform="translate(1723.94,-272.876)">
+			<title>Dynamische verbindingslijn.191</title>
+			<desc>Add a resource</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="-297.165" cy="1089.5" width="58.77" height="17.6036"/>
+			<path d="M0 1055.49 L-297.17 1055.49 L-297.17 1117.9" class="st5"/>
+			<rect v:rectContext="textBkgnd" x="-321.644" y="1084.7" width="48.9567" height="9.59985" class="st7"/>
+			<text x="-321.64" y="1091.9" class="st8" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>Add a resource</text>		</g>
+		<g id="shape192-1005" v:mID="192" v:groupContext="shape" v:layerMember="0" transform="translate(1723.94,-272.876)">
+			<title>Dynamische verbindingslijn.192</title>
+			<desc>Edit a resource</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="-454.671" cy="1090.82" width="58.36" height="17.6036"/>
+			<path d="M0 1055.49 L-457.32 1055.49 L-457.32 1117.9" class="st5"/>
+			<rect v:rectContext="textBkgnd" x="-478.944" y="1086.02" width="48.5464" height="9.59985" class="st7"/>
+			<text x="-478.94" y="1093.22" class="st8" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>Edit a resource</text>		</g>
+		<g id="shape193-1012" v:mID="193" v:groupContext="shape" v:layerMember="0" transform="translate(1723.94,-272.876)">
+			<title>Dynamische verbindingslijn.193</title>
+			<desc>Delete a resource</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="-614.646" cy="1089.58" width="67.12" height="17.6036"/>
+			<path d="M0 1055.49 L-614.65 1055.49 L-614.65 1117.9" class="st5"/>
+			<rect v:rectContext="textBkgnd" x="-643.296" y="1084.78" width="57.3" height="9.59985" class="st7"/>
+			<text x="-643.3" y="1091.98" class="st8" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>Delete a resource</text>		</g>
+		<g id="shape194-1019" v:mID="194" v:groupContext="shape" v:layerMember="1" transform="translate(1381.42,-73.0902)">
+			<title>Beslissing.194</title>
+			<desc>Are the needed values filled in &#38; correct?</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="Kosten" v:prompt="" v:type="7" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1043" v:cal="0"/>
+				<v:cp v:nameU="ProcessNumber" v:lbl="Procesnummer" v:prompt="" v:type="2" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1043" v:cal="0"/>
+				<v:cp v:nameU="Owner" v:lbl="Eigenaar" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1043" v:cal="0"/>
+				<v:cp v:nameU="Function" v:lbl="Functie" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1043" v:cal="0" v:val="VT4()"/>
+				<v:cp v:nameU="StartDate" v:lbl="Begindatum" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1043" v:cal="0"/>
+				<v:cp v:nameU="EndDate" v:lbl="Einddatum" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1043" v:cal="0"/>
+				<v:cp v:nameU="Status" v:lbl="Status" v:prompt="" v:type="4"
+						v:format=";Niet gestart;In uitvoering;Voltooid;Uitgesteld;Wacht op invoer" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1043" v:cal="0" v:val="VT4()"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="DefaultWidth" v:prompt="" v:val="VT0(0.98425196850394):24"/>
+				<v:ud v:nameU="DefaultHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+				<v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+				<v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.62992125984252):24"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="45.3543" cy="1026.46" width="75.6" height="43.5402"/>
+			<path d="M0 1026.46 L45.35 997.43 L90.71 1026.46 L45.35 1055.49 L0 1026.46 Z" class="st4"/>
+			<text x="20.14" y="1019.26" class="st2" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>Are the needed <tspan
+						x="18.53" dy="1.2em" class="st3">values filled in &#38; </tspan><tspan x="31.89" dy="1.2em" class="st3">correct?</tspan></text>		</g>
+		<g id="shape195-1024" v:mID="195" v:groupContext="shape" v:layerMember="1" transform="translate(1482.05,-116.97)">
+			<title>Proces.195</title>
+			<desc>Input gets stopped &#38; user is informed about this.</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="Kosten" v:prompt="" v:type="7" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1043" v:cal="0"/>
+				<v:cp v:nameU="ProcessNumber" v:lbl="Procesnummer" v:prompt="" v:type="2" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1043" v:cal="0"/>
+				<v:cp v:nameU="Owner" v:lbl="Eigenaar" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1043" v:cal="0"/>
+				<v:cp v:nameU="Function" v:lbl="Functie" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1043" v:cal="0" v:val="VT4()"/>
+				<v:cp v:nameU="StartDate" v:lbl="Begindatum" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1043" v:cal="0"/>
+				<v:cp v:nameU="EndDate" v:lbl="Einddatum" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1043" v:cal="0"/>
+				<v:cp v:nameU="Status" v:lbl="Status" v:prompt="" v:type="4"
+						v:format=";Niet gestart;In uitvoering;Voltooid;Uitgesteld;Wacht op invoer" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1043" v:cal="0" v:val="VT4()"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="DefaultWidth" v:prompt="" v:val="VT0(0.98425196850394):24"/>
+				<v:ud v:nameU="DefaultHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+				<v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="35.4331" cy="1034.23" width="70.87" height="42.5197"/>
+			<rect x="0" y="1012.97" width="70.8661" height="42.5197" class="st1"/>
+			<text x="4.89" y="1027.03" class="st2" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>Input gets stopped <tspan
+						x="5.43" dy="1.2em" class="st3">&#38; user is informed </tspan><tspan x="18.03" dy="1.2em" class="st3">about this.</tspan></text>		</g>
+		<g id="shape196-1029" v:mID="196" v:groupContext="shape" v:layerMember="0" transform="translate(1472.13,-102.117)">
+			<title>Dynamische verbindingslijn.196</title>
+			<desc>No</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="30.1039" cy="1055.49" width="40" height="17.6036"/>
+			<path d="M0 1055.49 L45.35 1055.49 L45.35 1047.67" class="st5"/>
+			<rect v:rectContext="textBkgnd" x="25.4126" y="1050.69" width="9.38287" height="9.59985" class="st7"/>
+			<text x="25.41" y="1057.89" class="st8" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>No</text>		</g>
+		<g id="shape197-1036" v:mID="197" v:groupContext="shape" v:layerMember="0" transform="translate(1517.48,-159.49)">
+			<title>Dynamische verbindingslijn.197</title>
+			<desc>Loop</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="-14.1732" cy="1028.56" width="40" height="17.6036"/>
+			<path d="M0 1055.49 L0 1028.56 L-48.24 1028.56" class="st5"/>
+			<rect v:rectContext="textBkgnd" x="-22.175" y="1023.76" width="16.0038" height="9.59985" class="st7"/>
+			<text x="-22.18" y="1030.96" class="st8" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>Loop</text>		</g>
+		<g id="shape198-1043" v:mID="198" v:groupContext="shape" v:layerMember="0" transform="translate(1419.69,-169.411)">
+			<title>Dynamische verbindingslijn.198</title>
+			<path d="M7.09 1055.49 L7.09 1086.72" class="st5"/>
+		</g>
+		<g id="shape199-1048" v:mID="199" v:groupContext="shape" v:layerMember="1" transform="translate(1391.34,-0.750018)">
+			<title>Begin/einde.199</title>
+			<desc>Resource gets added to the DB</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="Kosten" v:prompt="" v:type="7" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1043" v:cal="0"/>
+				<v:cp v:nameU="ProcessNumber" v:lbl="Procesnummer" v:prompt="" v:type="2" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1043" v:cal="0"/>
+				<v:cp v:nameU="Owner" v:lbl="Eigenaar" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1043" v:cal="0"/>
+				<v:cp v:nameU="Function" v:lbl="Functie" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1043" v:cal="0" v:val="VT4()"/>
+				<v:cp v:nameU="StartDate" v:lbl="Begindatum" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1043" v:cal="0"/>
+				<v:cp v:nameU="EndDate" v:lbl="Einddatum" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1043" v:cal="0"/>
+				<v:cp v:nameU="Status" v:lbl="Status" v:prompt="" v:type="4"
+						v:format=";Niet gestart;In uitvoering;Voltooid;Uitgesteld;Wacht op invoer" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1043" v:cal="0" v:val="VT4()"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="DefaultWidth" v:prompt="" v:val="VT0(0.98425196850394):24"/>
+				<v:ud v:nameU="DefaultHeight" v:prompt="" v:val="VT0(0.39370078740157):24"/>
+				<v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.39370078740157):24"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="35.4331" cy="1041.31" width="70.87" height="28.3465"/>
+			<path d="M14.17 1055.49 L56.69 1055.49 A14.1732 14.1732 -180 0 0 56.69 1027.14 L14.17 1027.14 A14.1732 14.1732 -180 1
+						 0 14.17 1055.49 Z" class="st4"/>
+			<text x="12.74" y="1038.91" class="st2" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>Resource gets <tspan
+						x="8.99" dy="1.2em" class="st3">added to the DB</tspan></text>		</g>
+		<g id="shape200-1052" v:mID="200" v:groupContext="shape" v:layerMember="0" transform="translate(1419.69,-73.0902)">
+			<title>Dynamische verbindingslijn.200</title>
+			<path d="M7.09 1055.49 L7.09 1092.44" class="st5"/>
+		</g>
+		<g id="shape201-1057" v:mID="201" v:groupContext="shape" v:layerMember="1" transform="translate(1221.26,-68.8382)">
+			<title>Beslissing.201</title>
+			<desc>Is the given value within valid bounds?</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="Kosten" v:prompt="" v:type="7" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1043" v:cal="0"/>
+				<v:cp v:nameU="ProcessNumber" v:lbl="Procesnummer" v:prompt="" v:type="2" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1043" v:cal="0"/>
+				<v:cp v:nameU="Owner" v:lbl="Eigenaar" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1043" v:cal="0"/>
+				<v:cp v:nameU="Function" v:lbl="Functie" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1043" v:cal="0" v:val="VT4()"/>
+				<v:cp v:nameU="StartDate" v:lbl="Begindatum" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1043" v:cal="0"/>
+				<v:cp v:nameU="EndDate" v:lbl="Einddatum" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1043" v:cal="0"/>
+				<v:cp v:nameU="Status" v:lbl="Status" v:prompt="" v:type="4"
+						v:format=";Niet gestart;In uitvoering;Voltooid;Uitgesteld;Wacht op invoer" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1043" v:cal="0" v:val="VT4()"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="DefaultWidth" v:prompt="" v:val="VT0(0.98425196850394):24"/>
+				<v:ud v:nameU="DefaultHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+				<v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="45.3543" cy="1026.46" width="75.6" height="43.5402"/>
+			<path d="M0 1026.46 L45.35 997.43 L90.71 1026.46 L45.35 1055.49 L0 1026.46 Z" class="st4"/>
+			<text x="17.21" y="1024.06" class="st2" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>Is the given value <tspan
+						x="11.71" dy="1.2em" class="st3">within valid bounds?</tspan></text>		</g>
+		<g id="shape204-1061" v:mID="204" v:groupContext="shape" v:layerMember="1" transform="translate(1311.26,-116.97)">
+			<title>Proces.204</title>
+			<desc>Input gets stopped &#38; user is informed about this.</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="Kosten" v:prompt="" v:type="7" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1043" v:cal="0"/>
+				<v:cp v:nameU="ProcessNumber" v:lbl="Procesnummer" v:prompt="" v:type="2" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1043" v:cal="0"/>
+				<v:cp v:nameU="Owner" v:lbl="Eigenaar" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1043" v:cal="0"/>
+				<v:cp v:nameU="Function" v:lbl="Functie" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1043" v:cal="0" v:val="VT4()"/>
+				<v:cp v:nameU="StartDate" v:lbl="Begindatum" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1043" v:cal="0"/>
+				<v:cp v:nameU="EndDate" v:lbl="Einddatum" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1043" v:cal="0"/>
+				<v:cp v:nameU="Status" v:lbl="Status" v:prompt="" v:type="4"
+						v:format=";Niet gestart;In uitvoering;Voltooid;Uitgesteld;Wacht op invoer" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1043" v:cal="0" v:val="VT4()"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="DefaultWidth" v:prompt="" v:val="VT0(0.98425196850394):24"/>
+				<v:ud v:nameU="DefaultHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+				<v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="35.4331" cy="1034.23" width="70.87" height="42.5197"/>
+			<rect x="0" y="1012.97" width="70.8661" height="42.5197" class="st1"/>
+			<text x="4.89" y="1027.03" class="st2" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>Input gets stopped <tspan
+						x="5.43" dy="1.2em" class="st3">&#38; user is informed </tspan><tspan x="18.03" dy="1.2em" class="st3">about this.</tspan></text>		</g>
+		<g id="shape205-1066" v:mID="205" v:groupContext="shape" v:layerMember="0" transform="translate(1311.97,-97.865)">
+			<title>Dynamische verbindingslijn.205</title>
+			<desc>No</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="26.915" cy="1055.49" width="40" height="17.6036"/>
+			<path d="M0 1055.49 L34.72 1055.49 L34.72 1043.42" class="st5"/>
+			<rect v:rectContext="textBkgnd" x="22.2236" y="1050.69" width="9.38287" height="9.59985" class="st7"/>
+			<text x="22.22" y="1057.89" class="st8" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>No</text>		</g>
+		<g id="shape206-1073" v:mID="206" v:groupContext="shape" v:layerMember="0" transform="translate(1346.7,-159.49)">
+			<title>Dynamische verbindingslijn.206</title>
+			<desc>Loop</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="-3.89763" cy="1028.56" width="40" height="17.6036"/>
+			<path d="M0 1055.49 L0 1028.56 L-27.68 1028.56" class="st5"/>
+			<rect v:rectContext="textBkgnd" x="-11.8995" y="1023.76" width="16.0038" height="9.59985" class="st7"/>
+			<text x="-11.9" y="1030.96" class="st8" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>Loop</text>		</g>
+		<g id="shape207-1080" v:mID="207" v:groupContext="shape" v:layerMember="0" transform="translate(1259.53,-169.411)">
+			<title>Dynamische verbindingslijn.207</title>
+			<path d="M7.09 1055.49 L7.09 1090.97" class="st5"/>
+		</g>
+		<g id="shape213-1085" v:mID="213" v:groupContext="shape" v:layerMember="1" transform="translate(1231.19,-0.750018)">
+			<title>Begin/einde.213</title>
+			<desc>Resource is changed</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="Kosten" v:prompt="" v:type="7" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1043" v:cal="0"/>
+				<v:cp v:nameU="ProcessNumber" v:lbl="Procesnummer" v:prompt="" v:type="2" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1043" v:cal="0"/>
+				<v:cp v:nameU="Owner" v:lbl="Eigenaar" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1043" v:cal="0"/>
+				<v:cp v:nameU="Function" v:lbl="Functie" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1043" v:cal="0" v:val="VT4()"/>
+				<v:cp v:nameU="StartDate" v:lbl="Begindatum" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1043" v:cal="0"/>
+				<v:cp v:nameU="EndDate" v:lbl="Einddatum" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1043" v:cal="0"/>
+				<v:cp v:nameU="Status" v:lbl="Status" v:prompt="" v:type="4"
+						v:format=";Niet gestart;In uitvoering;Voltooid;Uitgesteld;Wacht op invoer" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1043" v:cal="0" v:val="VT4()"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="DefaultWidth" v:prompt="" v:val="VT0(0.98425196850394):24"/>
+				<v:ud v:nameU="DefaultHeight" v:prompt="" v:val="VT0(0.39370078740157):24"/>
+				<v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.39370078740157):24"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="35.4331" cy="1041.31" width="70.87" height="28.3465"/>
+			<path d="M14.17 1055.49 L56.69 1055.49 A14.1732 14.1732 -180 0 0 56.69 1027.14 L14.17 1027.14 A14.1732 14.1732 -180 1
+						 0 14.17 1055.49 Z" class="st4"/>
+			<text x="2.34" y="1043.71" class="st2" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>Resource is changed</text>		</g>
+		<g id="shape214-1088" v:mID="214" v:groupContext="shape" v:layerMember="0" transform="translate(1259.53,-68.8382)">
+			<title>Dynamische verbindingslijn.214</title>
+			<path d="M7.09 1055.49 L7.09 1088.19" class="st5"/>
+		</g>
+		<g id="shape215-1093" v:mID="215" v:groupContext="shape" v:layerMember="1" transform="translate(1073.86,-0.75)">
+			<title>Begin/einde.215</title>
+			<desc>Resource is deleted</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="Kosten" v:prompt="" v:type="7" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1043" v:cal="0"/>
+				<v:cp v:nameU="ProcessNumber" v:lbl="Procesnummer" v:prompt="" v:type="2" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1043" v:cal="0"/>
+				<v:cp v:nameU="Owner" v:lbl="Eigenaar" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1043" v:cal="0"/>
+				<v:cp v:nameU="Function" v:lbl="Functie" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1043" v:cal="0" v:val="VT4()"/>
+				<v:cp v:nameU="StartDate" v:lbl="Begindatum" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1043" v:cal="0"/>
+				<v:cp v:nameU="EndDate" v:lbl="Einddatum" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1043" v:cal="0"/>
+				<v:cp v:nameU="Status" v:lbl="Status" v:prompt="" v:type="4"
+						v:format=";Niet gestart;In uitvoering;Voltooid;Uitgesteld;Wacht op invoer" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1043" v:cal="0" v:val="VT4()"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="DefaultWidth" v:prompt="" v:val="VT0(0.98425196850394):24"/>
+				<v:ud v:nameU="DefaultHeight" v:prompt="" v:val="VT0(0.39370078740157):24"/>
+				<v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.39370078740157):24"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="35.4331" cy="1041.31" width="70.87" height="28.3465"/>
+			<path d="M14.17 1055.49 L56.69 1055.49 A14.1732 14.1732 -180 0 0 56.69 1027.14 L14.17 1027.14 A14.1732 14.1732 -180 1
+						 0 14.17 1055.49 Z" class="st4"/>
+			<text x="3.7" y="1043.71" class="st2" v:langID="2067"><v:paragraph v:horizAlign="1"/><v:tabList/>Resource is deleted</text>		</g>
+		<g id="shape216-1096" v:mID="216" v:groupContext="shape" v:layerMember="0" transform="translate(1102.21,-169.411)">
+			<title>Dynamische verbindingslijn.216</title>
+			<path d="M7.09 1055.49 L7.09 1188.76" class="st5"/>
 		</g>
 	</g>
 </svg>
