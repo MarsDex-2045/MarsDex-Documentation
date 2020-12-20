@@ -129,6 +129,7 @@ In order to set up the application, you'll need to set up the server & the clien
 
 Or you can visit the [website](https://project-ii.ti.howest.be/mars-23/).
 
+We also provide a [User Flow Diagram](https://git.ti.howest.be/TI/2020-2021/s3/project-ii/projects/groep-23/client/-/wikis/Markdown/User-Flow-SVG) in order to discover the features of our product
 ## Credits
 This project has been made by the following people:
 - Yarne Savaete *(Discord-ID: `Derp.#8570`)*
