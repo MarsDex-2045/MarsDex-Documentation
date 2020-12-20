@@ -62,7 +62,7 @@ In addition to these features, the following bonus features were also implemente
 - Service Worker ([`sw.js`](https://git.ti.howest.be/TI/2020-2021/s3/project-ii/projects/groep-23/client/-/blob/master/src/sw.js), you'll also find that it's registered in your dev tools)
 - Push Notifications (This triggers if a resource is lower than 500 KG, a push notification will send to the server)
 
-## Documentation
+## Deliverables
 The Documentation repository contains all our deliverables of the project, such as:
 - [Flowcharts](https://git.ti.howest.be/TI/2020-2021/s3/project-ii/projects/groep-23/documentation/-/tree/master/deliverables/Flowcharts)
 - [User Case Diagrams](https://git.ti.howest.be/TI/2020-2021/s3/project-ii/projects/groep-23/documentation/-/tree/master/deliverables/UCD)
