@@ -60,18 +60,18 @@ Below you'll find a table, detailing which parts are implemented in the POC and 
 In addition to these features, the following bonus features were also implemented in the POC:
 - Geolocation ("You are here" marker on the global map)
 - CSS animations (Found throughout the project)
-- Service Worker ([`sw.js`](https://git.ti.howest.be/TI/2020-2021/s3/project-ii/projects/groep-23/client/-/blob/master/src/sw.js), you'll also find that it's registered in your dev tools)
+- Service Worker (  `sw.js`), you'll also find that it's registered in your dev tools)
 - Push Notifications (This triggers if a resource is lower than 500 KG, a push notification will send to the server)
 
 ## Deliverables
 The Documentation repository contains all our deliverables of the project, such as:
-- [Flowcharts](https://git.ti.howest.be/TI/2020-2021/s3/project-ii/projects/groep-23/documentation/-/tree/master/deliverables/Flowcharts)
-- [User Case Diagrams](https://git.ti.howest.be/TI/2020-2021/s3/project-ii/projects/groep-23/documentation/-/tree/master/deliverables/UCD)
-- [User Tests](https://git.ti.howest.be/TI/2020-2021/s3/project-ii/projects/groep-23/documentation/-/blob/master/deliverables/User%20Testing/User%20tests.md)
-- [UX Reports](https://git.ti.howest.be/TI/2020-2021/s3/project-ii/projects/groep-23/documentation/-/tree/master/deliverables/User%20Testing)
-- [C4 Diagrams](https://git.ti.howest.be/TI/2020-2021/s3/project-ii/projects/groep-23/documentation/-/tree/master/deliverables/c4)
+- [Flowcharts](https://github.com/BT-Creator/MarsDex-Documentation/tree/master/deliverables/Flowcharts)
+- [User Case Diagrams](https://github.com/BT-Creator/MarsDex-Documentation/tree/master/deliverables/UCD)
+- [User Tests](https://github.com/BT-Creator/MarsDex-Documentation/blob/master/deliverables/User%20Testing/User%20tests.md)
+- [UX Reports](https://github.com/BT-Creator/MarsDex-Documentation/tree/master/deliverables/User%20Testing)
+- [C4 Diagrams](https://github.com/BT-Creator/MarsDex-Documentation/tree/master/deliverables/c4)
 - [Wireframes](https://xd.adobe.com/view/68533c7b-e53d-4526-bacd-679ff922f22b-3d00/)
-- [User Stories](https://git.ti.howest.be/TI/2020-2021/s3/project-ii/projects/groep-23/documentation/-/wikis/Concept/User-Stories)
+- [User Stories](https://github.com/BT-Creator/MarsDex-Documentation/wiki/User-Stories)
 - [Business Case](https://drive.google.com/file/d/1zgsmvooYGLrN7WjTB11YLKyTbSqQwJNx/view)
 
 All of these items are located in the `deliveries` directory.
@@ -82,13 +82,10 @@ All of these items are located in the `deliveries` directory.
 (You'll find this button in the right-hand side of the preview window, the button besides download.)*  
 
 ### Application requirements
-In order to improve clarity, we've decided to summirize our [application requirements](https://git.ti.howest.be/TI/2020-2021/s3/project-ii/projects/groep-23/documentation/-/wikis/Concept/Application-Requirements)
+In order to improve clarity, we've decided to summirize our [application requirements](https://github.com/BT-Creator/MarsDex-Documentation/wiki/Concept-Application-Requirements)
 ## What now?
-In order to set up the application, you'll need to set up the server & the client locally. You'll need to [configure the server](https://git.ti.howest.be/TI/2020-2021/s3/project-ii/projects/groep-23/server) and after that, you'll need [configure the client](https://git.ti.howest.be/TI/2020-2021/s3/project-ii/projects/groep-23/client).
+In order to set up the application, you'll need to set up the server & the client locally. You'll need to [configure the server](https://github.com/BT-Creator/MarsDex-Server) and after that, you'll need [configure the client](https://github.com/BT-Creator/MarsDex-Client).
 
-Or you can visit the [website](https://project-ii.ti.howest.be/mars-23/).
-
-We also provide a [User Flow Diagram](https://git.ti.howest.be/TI/2020-2021/s3/project-ii/projects/groep-23/client/-/wikis/Markdown/User-Flow-SVG) in order to discover the features of our product
 ## Credits
 This project has been made by the following people:
 - Yarne Savaete *(Discord-ID: `Derp.#8570`)*
