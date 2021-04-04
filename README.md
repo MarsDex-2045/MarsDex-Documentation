@@ -72,7 +72,7 @@ The Documentation repository contains all our deliverables of the project, such 
 - [C4 Diagrams](https://github.com/BT-Creator/MarsDex-Documentation/tree/master/deliverables/c4)
 - [Wireframes](https://xd.adobe.com/view/68533c7b-e53d-4526-bacd-679ff922f22b-3d00/)
 - [User Stories](https://github.com/BT-Creator/MarsDex-Documentation/wiki/User-Stories)
-- [Business Case](https://drive.google.com/file/d/1zgsmvooYGLrN7WjTB11YLKyTbSqQwJNx/view)
+- [Business Case](https://docs.google.com/document/d/1x_26O2OHVEUT6JJ8yd2VA0xuL1GM5yeQH7PRJpdIDbM/edit?usp=sharing)
 
 All of these items are located in the `deliveries` directory.
 
